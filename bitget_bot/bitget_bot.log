@@ -1,0 +1,1238 @@
+CCXT Version: 2.1.92
+========================
+Binance_Bot v1 - 2022-11-18 13:20:08.994111
+Sections recupérées dans le fichier de configuration: ['BITGET.AUTHENTIFICATION', 'SOLDE', 'PARAMETRES', 'STRATEGIE', 'INDICATORS', 'HYPERPARAMETRES', 'FICHIER.HISTORIQUE']
+Timeframe utilisé :1h chandelier :210 StableCoin:USDT
+Wallet : 20.0 USDT
+Cryptos : 0.0 USDT de Cryptos
+Total : 20.0 USDT
+Solde du compte => 20.0 $
+...................................................
+...................................................
+CCXT Version: 2.1.92
+========================
+Binance_Bot v1 - 2022-11-18 13:21:31.580829
+Sections recupérées dans le fichier de configuration: ['BITGET.AUTHENTIFICATION', 'SOLDE', 'PARAMETRES', 'STRATEGIE', 'INDICATORS', 'HYPERPARAMETRES', 'FICHIER.HISTORIQUE']
+Timeframe utilisé :1h chandelier :210 StableCoin:USDT
+Wallet : 20.0 USDT
+Cryptos : 0.0 USDT de Cryptos
+Total : 20.0 USDT
+Solde du compte => 20.0 $
+...................................................
+...................................................
+CCXT Version: 2.1.92
+========================
+Binance_Bot v1 - 2022-11-18 13:22:22.599006
+Sections recupérées dans le fichier de configuration: ['BITGET.AUTHENTIFICATION', 'SOLDE', 'PARAMETRES', 'STRATEGIE', 'INDICATORS', 'HYPERPARAMETRES', 'FICHIER.HISTORIQUE']
+Timeframe utilisé :1h chandelier :210 StableCoin:USDT
+Wallet : 20.0 USDT
+Cryptos : 0.0 USDT de Cryptos
+Total : 20.0 USDT
+Solde du compte => 20.0 $
+...................................................
+...................................................
+CCXT Version: 2.1.92
+========================
+Binance_Bot v1 - 2022-11-18 14:00:02.458100
+Sections recupérées dans le fichier de configuration: ['BITGET.AUTHENTIFICATION', 'SOLDE', 'PARAMETRES', 'STRATEGIE', 'INDICATORS', 'HYPERPARAMETRES', 'FICHIER.HISTORIQUE']
+Timeframe utilisé :1h chandelier :210 StableCoin:USDT
+Wallet : 20.0 USDT
+Cryptos : 0.0 USDT de Cryptos
+Total : 20.0 USDT
+Solde du compte => 20.0 $
+...................................................
+...................................................
+CCXT Version: 2.1.92
+========================
+Binance_Bot v1 - 2022-11-18 14:53:06.324894
+Sections recupérées dans le fichier de configuration: ['BITGET.AUTHENTIFICATION', 'SOLDE', 'PARAMETRES', 'STRATEGIE', 'INDICATORS', 'HYPERPARAMETRES', 'FICHIER.HISTORIQUE']
+Timeframe utilisé :1h chandelier :210 StableCoin:USDT
+Wallet : 20.0 USDT
+Cryptos : 0.0 USDT de Cryptos
+Total : 20.0 USDT
+row['AO']:-1.0275757575764146
+row['STOCH_RSI']:0.05279117772006947
+row['WillR']:-76.91372626322446
+row['EMA100']:16713.422293852516
+row['EMA200']:16723.323222502106
+row['AO']:3.9114393939394176
+row['STOCH_RSI']:0.4700359400045126
+row['WillR']:-36.955168119551914
+row['EMA100']:1225.6143675608785
+row['EMA200']:1235.5495757895826
+row['AO']:1.9519696969697407
+row['STOCH_RSI']:0.4179500060503202
+row['WillR']:-24.09638554216821
+row['EMA100']:273.9759599500064
+row['EMA200']:277.40271514212105
+row['AO']:0.6792424242424318
+row['STOCH_RSI']:0.34343400814444763
+row['WillR']:-31.627906976744192
+row['EMA100']:59.56710592471755
+row['EMA200']:58.71603339660518
+row['AO']:0.00018321969696970253
+row['STOCH_RSI']:0.0
+row['WillR']:-64.64367816091985
+row['EMA100']:0.08595148063443311
+row['EMA200']:0.08650627298706728
+row['AO']:0.0012460606060604729
+row['STOCH_RSI']:0.5055870933395957
+row['WillR']:-36.28048780487781
+row['EMA100']:0.3742787164180861
+row['EMA200']:0.36708422915667926
+row['AO']:-0.029969696969695647
+row['STOCH_RSI']:0.5604538285973937
+row['WillR']:-73.98568019093082
+row['EMA100']:13.972545276017946
+row['EMA200']:14.085865629813041
+row['AO']:0.04609318181817912
+row['STOCH_RSI']:0.5232984235653457
+row['WillR']:-25.075452716297836
+row['EMA100']:13.18881740477526
+row['EMA200']:13.24213415165299
+row['AO']:1.4886363636364245e-08
+row['STOCH_RSI']:0.17564386676752655
+row['WillR']:-45.263157894737155
+row['EMA100']:9.154280993077641e-06
+row['EMA200']:9.157971404518858e-06
+row['AO']:0.004101757575757703
+row['STOCH_RSI']:0.6481929432889479
+row['WillR']:-24.14919586444577
+row['EMA100']:0.9041840659171301
+row['EMA200']:0.913707189883578
+row['AO']:0.00031426515151515566
+row['STOCH_RSI']:0.8507949299115846
+row['WillR']:-50.237416904083474
+row['EMA100']:0.07047508229645859
+row['EMA200']:0.07079228707297135
+row['AO']:0.00027462878787878897
+row['STOCH_RSI']:0.27694280699622625
+row['WillR']:-30.05836575875472
+row['EMA100']:0.050220899555290986
+row['EMA200']:0.05015819014549769
+row['AO']:-6.742121212119367e-05
+row['STOCH_RSI']:0.4038665222662293
+row['WillR']:-47.14739229024922
+row['EMA100']:0.18203690559440977
+row['EMA200']:0.1821148273663755
+row['AO']:-0.0007196969697034206
+row['STOCH_RSI']:0.0
+row['WillR']:-74.09075164530657
+row['EMA100']:59.09414502116076
+row['EMA200']:58.85589774232895
+row['AO']:-0.009792424242424325
+row['STOCH_RSI']:0.31228596026824784
+row['WillR']:-73.01927194860824
+row['EMA100']:1.2734966262393383
+row['EMA200']:1.2824797602124332
+row['AO']:-0.011431818181818265
+row['STOCH_RSI']:0.8346774436370461
+row['WillR']:-37.719298245614134
+row['EMA100']:1.5880805246138376
+row['EMA200']:1.556013489766795
+Solde du compte => 20.0 $
+...................................................
+...................................................
+CCXT Version: 2.1.92
+========================
+Binance_Bot v1 - 2022-11-18 14:55:17.600524
+Sections recupérées dans le fichier de configuration: ['BITGET.AUTHENTIFICATION', 'SOLDE', 'PARAMETRES', 'STRATEGIE', 'INDICATORS', 'HYPERPARAMETRES', 'FICHIER.HISTORIQUE']
+Timeframe utilisé :1h chandelier :210 StableCoin:USDT
+Wallet : 20.0 USDT
+Cryptos : 0.0 USDT de Cryptos
+Total : 20.0 USDT
+++++++++++++++++++++++++
+BTC
+row['AO']:-1.0275757575764146
+row['STOCH_RSI']:0.05279117772006947
+row['WillR']:-76.91372626322446
+row['EMA100']:16713.422293852516
+row['EMA200']:16723.323222502106
+++++++++++++++++++++++++
+++++++++++++++++++++++++
+ETH
+row['AO']:3.9114393939394176
+row['STOCH_RSI']:0.4700359400045126
+row['WillR']:-36.955168119551914
+row['EMA100']:1225.6143675608785
+row['EMA200']:1235.5495757895826
+++++++++++++++++++++++++
+++++++++++++++++++++++++
+BNB
+row['AO']:1.9519696969697407
+row['STOCH_RSI']:0.4179500060503202
+row['WillR']:-24.09638554216821
+row['EMA100']:273.9759599500064
+row['EMA200']:277.40271514212105
+++++++++++++++++++++++++
+++++++++++++++++++++++++
+LTC
+row['AO']:0.6792424242424318
+row['STOCH_RSI']:0.34343400814444763
+row['WillR']:-31.627906976744192
+row['EMA100']:59.56710592471755
+row['EMA200']:58.71603339660518
+++++++++++++++++++++++++
+++++++++++++++++++++++++
+DOGE
+row['AO']:0.00018321969696970253
+row['STOCH_RSI']:0.0
+row['WillR']:-64.64367816091985
+row['EMA100']:0.08595148063443311
+row['EMA200']:0.08650627298706728
+++++++++++++++++++++++++
+++++++++++++++++++++++++
+XRP
+row['AO']:0.0012460606060604729
+row['STOCH_RSI']:0.5055870933395957
+row['WillR']:-36.28048780487781
+row['EMA100']:0.3742787164180861
+row['EMA200']:0.36708422915667926
+++++++++++++++++++++++++
+++++++++++++++++++++++++
+SOL
+row['AO']:-0.029969696969695647
+row['STOCH_RSI']:0.5604538285973937
+row['WillR']:-73.98568019093082
+row['EMA100']:13.972545276017946
+row['EMA200']:14.085865629813041
+++++++++++++++++++++++++
+++++++++++++++++++++++++
+AVAX
+row['AO']:0.04609318181817912
+row['STOCH_RSI']:0.5232984235653457
+row['WillR']:-25.075452716297836
+row['EMA100']:13.18881740477526
+row['EMA200']:13.24213415165299
+++++++++++++++++++++++++
+++++++++++++++++++++++++
+SHIB
+row['AO']:1.4886363636364245e-08
+row['STOCH_RSI']:0.17564386676752655
+row['WillR']:-45.263157894737155
+row['EMA100']:9.154280993077641e-06
+row['EMA200']:9.157971404518858e-06
+++++++++++++++++++++++++
+++++++++++++++++++++++++
+MATIC
+row['AO']:0.004101757575757703
+row['STOCH_RSI']:0.6481929432889479
+row['WillR']:-24.14919586444577
+row['EMA100']:0.9041840659171301
+row['EMA200']:0.913707189883578
+++++++++++++++++++++++++
+++++++++++++++++++++++++
+CRO
+row['AO']:0.00031426515151515566
+row['STOCH_RSI']:0.8507949299115846
+row['WillR']:-50.237416904083474
+row['EMA100']:0.07047508229645859
+row['EMA200']:0.07079228707297135
+++++++++++++++++++++++++
+++++++++++++++++++++++++
+TRX
+row['AO']:0.00027462878787878897
+row['STOCH_RSI']:0.27694280699622625
+row['WillR']:-30.05836575875472
+row['EMA100']:0.050220899555290986
+row['EMA200']:0.05015819014549769
+++++++++++++++++++++++++
+++++++++++++++++++++++++
+FTM
+row['AO']:-6.742121212119367e-05
+row['STOCH_RSI']:0.4038665222662293
+row['WillR']:-47.14739229024922
+row['EMA100']:0.18203690559440977
+row['EMA200']:0.1821148273663755
+++++++++++++++++++++++++
+++++++++++++++++++++++++
+AAVE
+row['AO']:-0.0007196969697034206
+row['STOCH_RSI']:0.0
+row['WillR']:-74.09075164530657
+row['EMA100']:59.09414502116076
+row['EMA200']:58.85589774232895
+++++++++++++++++++++++++
+++++++++++++++++++++++++
+SUSHI
+row['AO']:-0.009792424242424325
+row['STOCH_RSI']:0.31228596026824784
+row['WillR']:-73.01927194860824
+row['EMA100']:1.2734966262393383
+row['EMA200']:1.2824797602124332
+++++++++++++++++++++++++
+++++++++++++++++++++++++
+FTT
+row['AO']:-0.011431818181818265
+row['STOCH_RSI']:0.8346774436370461
+row['WillR']:-37.719298245614134
+row['EMA100']:1.5880805246138376
+row['EMA200']:1.556013489766795
+++++++++++++++++++++++++
+Solde du compte => 20.0 $
+...................................................
+...................................................
+CCXT Version: 2.1.92
+========================
+Binance_Bot v1 - 2022-11-18 15:00:01.988708
+Sections recupérées dans le fichier de configuration: ['BITGET.AUTHENTIFICATION', 'SOLDE', 'PARAMETRES', 'STRATEGIE', 'INDICATORS', 'HYPERPARAMETRES', 'FICHIER.HISTORIQUE']
+Timeframe utilisé :1h chandelier :210 StableCoin:USDT
+Wallet : 20.0 USDT
+Cryptos : 0.0 USDT de Cryptos
+Total : 20.0 USDT
+++++++++++++++++++++++++
+BTC
+row['AO']:-5.739469696967717
+row['STOCH_RSI']:0.0
+row['WillR']:-88.20471811275524
+row['EMA100']:16722.881461024874
+row['EMA200']:16749.264796815296
+++++++++++++++++++++++++
+++++++++++++++++++++++++
+ETH
+row['AO']:4.208484848484886
+row['STOCH_RSI']:0.0
+row['WillR']:-70.461154964686
+row['EMA100']:1226.9819503567433
+row['EMA200']:1239.6253008426627
+++++++++++++++++++++++++
+++++++++++++++++++++++++
+BNB
+row['AO']:1.9700757575757848
+row['STOCH_RSI']:0.0998562232538914
+row['WillR']:-52.27272727272737
+row['EMA100']:274.1502533132415
+row['EMA200']:277.91252051916365
+++++++++++++++++++++++++
+++++++++++++++++++++++++
+LTC
+row['AO']:0.6625000000000014
+row['STOCH_RSI']:0.19731606034249546
+row['WillR']:-48.83720930232581
+row['EMA100']:59.70567609640597
+row['EMA200']:58.957319637980795
+++++++++++++++++++++++++
+++++++++++++++++++++++++
+DOGE
+row['AO']:0.0001374848484848451
+row['STOCH_RSI']:0.0
+row['WillR']:-80.73602907769168
+row['EMA100']:0.08605736104100523
+row['EMA200']:0.08683016717143284
+++++++++++++++++++++++++
+++++++++++++++++++++++++
+XRP
+row['AO']:0.0008729545454545518
+row['STOCH_RSI']:0.0
+row['WillR']:-84.28874734607236
+row['EMA100']:0.3750068711030514
+row['EMA200']:0.36892089136945555
+++++++++++++++++++++++++
+++++++++++++++++++++++++
+SOL
+row['AO']:-0.04168939393939475
+row['STOCH_RSI']:0.0
+row['WillR']:-81.93548387096781
+row['EMA100']:13.993122758959702
+row['EMA200']:14.163073022612805
+++++++++++++++++++++++++
+++++++++++++++++++++++++
+AVAX
+row['AO']:0.04285909090909179
+row['STOCH_RSI']:0.08892573636587545
+row['WillR']:-72.06703910614485
+row['EMA100']:13.19363267402448
+row['EMA200']:13.258196435766123
+++++++++++++++++++++++++
+++++++++++++++++++++++++
+SHIB
+row['AO']:1.1757575757575666e-08
+row['STOCH_RSI']:0.0
+row['WillR']:-78.65168539325833
+row['EMA100']:9.159792850206075e-06
+row['EMA200']:9.175512130032902e-06
+++++++++++++++++++++++++
+++++++++++++++++++++++++
+MATIC
+row['AO']:0.0040814015151514615
+row['STOCH_RSI']:0.0
+row['WillR']:-75.67093194428729
+row['EMA100']:0.9051734243760545
+row['EMA200']:0.917041820613575
+++++++++++++++++++++++++
+++++++++++++++++++++++++
+CRO
+row['AO']:0.00040565909090908847
+row['STOCH_RSI']:1.0
+row['WillR']:-28.634716069270628
+row['EMA100']:0.07072644839347784
+row['EMA200']:0.07143341016681726
+++++++++++++++++++++++++
+++++++++++++++++++++++++
+TRX
+row['AO']:0.0002476515151515202
+row['STOCH_RSI']:0.0
+row['WillR']:-70.30129124820661
+row['EMA100']:0.050280194967297825
+row['EMA200']:0.05030404977644637
+++++++++++++++++++++++++
+++++++++++++++++++++++++
+FTM
+row['AO']:-6.047651515148078e-05
+row['STOCH_RSI']:0.06724351228876081
+row['WillR']:-74.44205254371347
+row['EMA100']:0.1820690438641392
+row['EMA200']:0.18231188382437907
+++++++++++++++++++++++++
+++++++++++++++++++++++++
+AAVE
+row['AO']:-0.1012424242424288
+row['STOCH_RSI']:0.0
+row['WillR']:-83.16542086447835
+row['EMA100']:59.16705811835726
+row['EMA200']:59.065044959720204
+++++++++++++++++++++++++
+++++++++++++++++++++++++
+SUSHI
+row['AO']:-0.009156060606060779
+row['STOCH_RSI']:0.06333877152952266
+row['WillR']:-84.69387755102026
+row['EMA100']:1.2733366027394348
+row['EMA200']:1.2843044868350122
+++++++++++++++++++++++++
+++++++++++++++++++++++++
+FTT
+row['AO']:-0.010128787878787904
+row['STOCH_RSI']:0.4796726950891748
+row['WillR']:-63.1578947368421
+row['EMA100']:1.5814487216699145
+row['EMA200']:1.5403077607824947
+++++++++++++++++++++++++
+Solde du compte => 20.0 $
+...................................................
+...................................................
+CCXT Version: 2.1.92
+========================
+Binance_Bot v1 - 2022-11-18 16:00:02.307466
+Sections recupérées dans le fichier de configuration: ['BITGET.AUTHENTIFICATION', 'SOLDE', 'PARAMETRES', 'STRATEGIE', 'INDICATORS', 'HYPERPARAMETRES', 'FICHIER.HISTORIQUE']
+Timeframe utilisé :1h chandelier :210 StableCoin:USDT
+Wallet : 20.0 USDT
+Cryptos : 0.0 USDT de Cryptos
+Total : 20.0 USDT
+++++++++++++++++++++++++
+BTC
+row['AO']:-18.052121212120255
+row['STOCH_RSI']:0.0
+row['WillR']:-78.49080387326
+row['EMA100']:16709.294535696998
+row['EMA200']:16713.6261687861
+++++++++++++++++++++++++
+++++++++++++++++++++++++
+ETH
+row['AO']:3.68568181818182
+row['STOCH_RSI']:0.0
+row['WillR']:-82.50934773577063
+row['EMA100']:1225.9746090972162
+row['EMA200']:1237.4672092494789
+++++++++++++++++++++++++
+++++++++++++++++++++++++
+BNB
+row['AO']:1.8549242424242038
+row['STOCH_RSI']:0.0
+row['WillR']:-67.11229946524024
+row['EMA100']:273.85126163564803
+row['EMA200']:277.1718191873274
+++++++++++++++++++++++++
+++++++++++++++++++++++++
+LTC
+row['AO']:0.6155303030303045
+row['STOCH_RSI']:0.0668344183146544
+row['WillR']:-54.883720930232585
+row['EMA100']:59.72157694105195
+row['EMA200']:58.87907390723606
+++++++++++++++++++++++++
+++++++++++++++++++++++++
+DOGE
+row['AO']:9.87121212120412e-06
+row['STOCH_RSI']:0.0
+row['WillR']:-77.91411042944772
+row['EMA100']:0.08588597117576395
+row['EMA200']:0.08641028234226092
+++++++++++++++++++++++++
+++++++++++++++++++++++++
+XRP
+row['AO']:-0.00011999999999995348
+row['STOCH_RSI']:0.0
+row['WillR']:-90.46052631578964
+row['EMA100']:0.3743237237156986
+row['EMA200']:0.36703953662827826
+++++++++++++++++++++++++
+++++++++++++++++++++++++
+SOL
+row['AO']:-0.06744696969697017
+row['STOCH_RSI']:0.0
+row['WillR']:-83.88791593695261
+row['EMA100']:13.956404243383233
+row['EMA200']:14.090650755328841
+++++++++++++++++++++++++
+++++++++++++++++++++++++
+AVAX
+row['AO']:0.04265378787878937
+row['STOCH_RSI']:0.3292626598381331
+row['WillR']:-55.22131499785133
+row['EMA100']:13.171792924381087
+row['EMA200']:13.200917368062743
+++++++++++++++++++++++++
+++++++++++++++++++++++++
+SHIB
+row['AO']:5.446969696969628e-09
+row['STOCH_RSI']:0.0
+row['WillR']:-86.51685393258425
+row['EMA100']:9.159119808697222e-06
+row['EMA200']:9.17713292521194e-06
+++++++++++++++++++++++++
+++++++++++++++++++++++++
+MATIC
+row['AO']:0.003483454545454512
+row['STOCH_RSI']:0.0
+row['WillR']:-79.33979464542792
+row['EMA100']:0.9039342548638813
+row['EMA200']:0.9145356066913898
+++++++++++++++++++++++++
+++++++++++++++++++++++++
+CRO
+row['AO']:0.00046849242424243376
+row['STOCH_RSI']:0.5007448770923036
+row['WillR']:-51.59081755940358
+row['EMA100']:0.07049090285090445
+row['EMA200']:0.07079578779534018
+++++++++++++++++++++++++
+++++++++++++++++++++++++
+TRX
+row['AO']:0.00021724242424242535
+row['STOCH_RSI']:0.15148081359232682
+row['WillR']:-57.81922525107544
+row['EMA100']:0.05034017704513199
+row['EMA200']:0.05044969531305091
+++++++++++++++++++++++++
+++++++++++++++++++++++++
+FTM
+row['AO']:-0.00015062121212122692
+row['STOCH_RSI']:0.0730884723237993
+row['WillR']:-69.76244577566635
+row['EMA100']:0.18191994626459246
+row['EMA200']:0.18202040880486198
+++++++++++++++++++++++++
+++++++++++++++++++++++++
+AAVE
+row['AO']:-0.22846212121211806
+row['STOCH_RSI']:0.0
+row['WillR']:-83.68540786480328
+row['EMA100']:59.10056461604205
+row['EMA200']:58.901493001687115
+++++++++++++++++++++++++
+++++++++++++++++++++++++
+SUSHI
+row['AO']:-0.009800757575757713
+row['STOCH_RSI']:0.0
+row['WillR']:-97.34982332155467
+row['EMA100']:1.2678160224971433
+row['EMA200']:1.2722646668104507
+++++++++++++++++++++++++
+++++++++++++++++++++++++
+FTT
+row['AO']:-0.014643939393939487
+row['STOCH_RSI']:0.0
+row['WillR']:-75.83892617449662
+row['EMA100']:1.5808996452580355
+row['EMA200']:1.5434632208106136
+++++++++++++++++++++++++
+Solde du compte => 20.0 $
+...................................................
+...................................................
+CCXT Version: 2.1.92
+========================
+Binance_Bot v1 - 2022-11-18 17:00:02.302867
+Sections recupérées dans le fichier de configuration: ['BITGET.AUTHENTIFICATION', 'SOLDE', 'PARAMETRES', 'STRATEGIE', 'INDICATORS', 'HYPERPARAMETRES', 'FICHIER.HISTORIQUE']
+Timeframe utilisé :1h chandelier :210 StableCoin:USDT
+Wallet : 20.0 USDT
+Cryptos : 0.0 USDT de Cryptos
+Total : 20.0 USDT
+++++++++++++++++++++++++
+BTC
+row['AO']:-34.32977272727294
+row['STOCH_RSI']:0.0
+row['WillR']:-89.43653288946409
+row['EMA100']:16691.265579864033
+row['EMA200']:16667.431697927048
+++++++++++++++++++++++++
+++++++++++++++++++++++++
+ETH
+row['AO']:2.063333333333503
+row['STOCH_RSI']:0.0
+row['WillR']:-85.76879053796256
+row['EMA100']:1224.5744958266985
+row['EMA200']:1234.391880543261
+++++++++++++++++++++++++
+++++++++++++++++++++++++
+BNB
+row['AO']:1.5432575757575933
+row['STOCH_RSI']:0.0
+row['WillR']:-70.85561497326125
+row['EMA100']:273.44497020851
+row['EMA200']:276.1398360827871
+++++++++++++++++++++++++
+++++++++++++++++++++++++
+LTC
+row['AO']:0.5221212121212275
+row['STOCH_RSI']:0.19788699822206804
+row['WillR']:-46.51162790697678
+row['EMA100']:59.6937868315944
+row['EMA200']:58.67706275308898
+++++++++++++++++++++++++
+++++++++++++++++++++++++
+DOGE
+row['AO']:-0.00012961363636364298
+row['STOCH_RSI']:0.0
+row['WillR']:-93.84203480588967
+row['EMA100']:0.08567713610785373
+row['EMA200']:0.08590243292035914
+++++++++++++++++++++++++
+++++++++++++++++++++++++
+XRP
+row['AO']:-0.001022878787878767
+row['STOCH_RSI']:0.0
+row['WillR']:-92.33621755253455
+row['EMA100']:0.3739230955355017
+row['EMA200']:0.3659164669961846
+++++++++++++++++++++++++
+++++++++++++++++++++++++
+SOL
+row['AO']:-0.10837121212120948
+row['STOCH_RSI']:0.0
+row['WillR']:-93.20557491289203
+row['EMA100']:13.92427408071584
+row['EMA200']:14.031768544206813
+++++++++++++++++++++++++
+++++++++++++++++++++++++
+AVAX
+row['AO']:0.036946969696968424
+row['STOCH_RSI']:0.0
+row['WillR']:-80.23205844434855
+row['EMA100']:13.15996044145342
+row['EMA200']:13.172500407553809
+++++++++++++++++++++++++
+++++++++++++++++++++++++
+SHIB
+row['AO']:-7.15151515151651e-09
+row['STOCH_RSI']:0.0
+row['WillR']:-97.63033175355413
+row['EMA100']:9.14100123695778e-06
+row['EMA200']:9.134002918708204e-06
+++++++++++++++++++++++++
+++++++++++++++++++++++++
+MATIC
+row['AO']:0.0023774015151515338
+row['STOCH_RSI']:0.22401390088662287
+row['WillR']:-70.05565684675207
+row['EMA100']:0.9028272463760297
+row['EMA200']:0.9122601139125014
+++++++++++++++++++++++++
+++++++++++++++++++++++++
+CRO
+row['AO']:0.0005073636363636252
+row['STOCH_RSI']:0.4998126484805326
+row['WillR']:-52.05034510759217
+row['EMA100']:0.07042608810428842
+row['EMA200']:0.07061150304627677
+++++++++++++++++++++++++
+++++++++++++++++++++++++
+TRX
+row['AO']:0.00017298484848485285
+row['STOCH_RSI']:0.5140384273663071
+row['WillR']:-41.319942611190555
+row['EMA100']:0.05018960241592031
+row['EMA200']:0.050025413551080575
+++++++++++++++++++++++++
+++++++++++++++++++++++++
+FTM
+row['AO']:-0.00024212348484844992
+row['STOCH_RSI']:0.0
+row['WillR']:-84.57963230737481
+row['EMA100']:0.18174632955439943
+row['EMA200']:0.1816889884954537
+++++++++++++++++++++++++
+++++++++++++++++++++++++
+AAVE
+row['AO']:-0.39556818181819153
+row['STOCH_RSI']:0.0
+row['WillR']:-94.58204334365334
+row['EMA100']:59.038170217328016
+row['EMA200']:58.76786235958587
+++++++++++++++++++++++++
+++++++++++++++++++++++++
+SUSHI
+row['AO']:-0.011676515151515243
+row['STOCH_RSI']:0.0
+row['WillR']:-93.8366718027735
+row['EMA100']:1.2663350708380516
+row['EMA200']:1.2711740417739203
+++++++++++++++++++++++++
+++++++++++++++++++++++++
+FTT
+row['AO']:-0.02395454545454534
+row['STOCH_RSI']:0.0
+row['WillR']:-100.0
+row['EMA100']:1.5773785412160741
+row['EMA200']:1.5411598111698865
+++++++++++++++++++++++++
+Solde du compte => 20.0 $
+...................................................
+...................................................
+CCXT Version: 2.1.92
+========================
+Binance_Bot v1 - 2022-11-18 18:00:01.996055
+Sections recupérées dans le fichier de configuration: ['BITGET.AUTHENTIFICATION', 'SOLDE', 'PARAMETRES', 'STRATEGIE', 'INDICATORS', 'HYPERPARAMETRES', 'FICHIER.HISTORIQUE']
+Timeframe utilisé :1h chandelier :210 StableCoin:USDT
+Cannot get price of BCHA/USDT
+Wallet : 20.0 USDT
+Cryptos : 0.0 USDT de Cryptos
+Total : 20.0 USDT
+************* Pair List *************
+['BTC/USDT', 'ETH/USDT', 'BNB/USDT', 'LTC/USDT', 'DOGE/USDT', 'XRP/USDT', 'SOL/USDT', 'AVAX/USDT', 'SHIB/USDT', 'MATIC/USDT', 'CRO/USDT', 'TRX/USDT', 'FTM/USDT', 'AAVE/USDT', 'SUSHI/USDT', 'FTT/USDT', 'BGB/USDT', 'BCH/USDT', 'ETC/USDT', 'LINK/USDT', 'EOS/USDT', 'BCHA/USDT', 'UNI/USDT', 'COMP/USDT', 'LUNA/USDT', 'LUNC/USDT', '1INCH/USDT', 'CAKE/USDT']
+*************************************
+Impossible de récupérer les 210 dernières bougies de BCHA/USDT à 2 reprises, on n'utilisera pas cette paire durant cette execution
+Cannot get price of BCHA/USDT
+++++++++++++++++++++++++
+BTC
+++++++++++++++++++++++++
+ETH
+++++++++++++++++++++++++
+BNB
+++++++++++++++++++++++++
+LTC
+Symbol: LTC/USDT Side: buy Amount: 0.1619 Price: 61.76 Precision: 0.1619
+{'info': {'orderId': '977560255130411008', 'clientOrderId': 'CCXT#88da4e60478abf49bae0c0'}, 'id': '977560255130411008', 'clientOrderId': 'CCXT#88da4e60478abf49bae0c0', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'symbol': None, 'type': None, 'timeInForce': None, 'postOnly': None, 'side': None, 'price': None, 'stopPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'fees': []}
+********************************************
+place TP
+Symbol:LTC/USDT Side:sell Amount:0.1619 buyPrice71.02 Pricision:0.1619
+{'info': {'orderId': '977560273925087232', 'clientOrderId': 'CCXT#7e9fc30bc658023c6dd801'}, 'id': '977560273925087232', 'clientOrderId': 'CCXT#7e9fc30bc658023c6dd801', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'symbol': None, 'type': None, 'timeInForce': None, 'postOnly': None, 'side': None, 'price': None, 'stopPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'fees': []}
+********************************************
+Achat 0.1619 LTC at 61.76 {'info': {'orderId': '977560255130411008', 'clientOrderId': 'CCXT#88da4e60478abf49bae0c0'}, 'id': '977560255130411008', 'clientOrderId': 'CCXT#88da4e60478abf49bae0c0', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'symbol': None, 'type': None, 'timeInForce': None, 'postOnly': None, 'side': None, 'price': None, 'stopPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'fees': []}
+Place 0.1619 LTC TP at 71.02 {'info': {'orderId': '977560273925087232', 'clientOrderId': 'CCXT#7e9fc30bc658023c6dd801'}, 'id': '977560273925087232', 'clientOrderId': 'CCXT#7e9fc30bc658023c6dd801', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'symbol': None, 'type': None, 'timeInForce': None, 'postOnly': None, 'side': None, 'price': None, 'stopPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'fees': []}
+********************************************
+********************************************
+++++++++++++++++++++++++
+DOGE
+++++++++++++++++++++++++
+XRP
+++++++++++++++++++++++++
+SOL
+++++++++++++++++++++++++
+AVAX
+++++++++++++++++++++++++
+SHIB
+++++++++++++++++++++++++
+MATIC
+++++++++++++++++++++++++
+CRO
+++++++++++++++++++++++++
+TRX
+++++++++++++++++++++++++
+FTM
+++++++++++++++++++++++++
+AAVE
+++++++++++++++++++++++++
+SUSHI
+++++++++++++++++++++++++
+FTT
+++++++++++++++++++++++++
+BGB
+++++++++++++++++++++++++
+BCH
+++++++++++++++++++++++++
+ETC
+++++++++++++++++++++++++
+LINK
+++++++++++++++++++++++++
+EOS
+++++++++++++++++++++++++
+UNI
+++++++++++++++++++++++++
+COMP
+++++++++++++++++++++++++
+LUNA
+++++++++++++++++++++++++
+LUNC
+++++++++++++++++++++++++
+1INCH
+++++++++++++++++++++++++
+CAKE
+Cannot get price of BCHA/USDT
+Solde du compte => 20.0 $
+...................................................
+...................................................
+CCXT Version: 2.1.92
+========================
+Binance_Bot v1 - 2022-11-18 19:00:02.487302
+Sections recupérées dans le fichier de configuration: ['BITGET.AUTHENTIFICATION', 'SOLDE', 'PARAMETRES', 'STRATEGIE', 'INDICATORS', 'HYPERPARAMETRES', 'FICHIER.HISTORIQUE']
+Timeframe utilisé :1h chandelier :210 StableCoin:USDT
+Wallet : 10.001056 USDT
+Cryptos : 10.019991 USDT de Cryptos
+Total : 20.021047 USDT
+************* Pair List *************
+['BTC/USDT', 'ETH/USDT', 'BNB/USDT', 'LTC/USDT', 'DOGE/USDT', 'XRP/USDT', 'SOL/USDT', 'AVAX/USDT', 'SHIB/USDT', 'MATIC/USDT', 'CRO/USDT', 'TRX/USDT', 'FTM/USDT', 'AAVE/USDT', 'SUSHI/USDT', 'FTT/USDT', 'BGB/USDT', 'BCH/USDT', 'ETC/USDT', 'LINK/USDT', 'EOS/USDT', 'UNI/USDT', 'COMP/USDT', 'LUNA/USDT', 'LUNC/USDT', '1INCH/USDT', 'CAKE/USDT']
+*************************************
+++++++++++++++++++++++++
+LTC
+On garde
+++++++++++++++++++++++++
+BTC
+++++++++++++++++++++++++
+ETH
+++++++++++++++++++++++++
+BNB
+++++++++++++++++++++++++
+DOGE
+++++++++++++++++++++++++
+XRP
+++++++++++++++++++++++++
+SOL
+++++++++++++++++++++++++
+AVAX
+++++++++++++++++++++++++
+SHIB
+++++++++++++++++++++++++
+MATIC
+++++++++++++++++++++++++
+CRO
+++++++++++++++++++++++++
+TRX
+Symbol: TRX/USDT Side: buy Amount: 188.5606 Price: 0.050387 Precision: 188.5606
+{'info': {'orderId': '977575330402705408', 'clientOrderId': 'CCXT#2410f8c2de89f06289d2a1'}, 'id': '977575330402705408', 'clientOrderId': 'CCXT#2410f8c2de89f06289d2a1', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'symbol': None, 'type': None, 'timeInForce': None, 'postOnly': None, 'side': None, 'price': None, 'stopPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'fees': []}
+********************************************
+place TP
+Symbol:TRX/USDT Side:sell Amount:188.5606 buyPrice0.057945 Pricision:188.5606
+{'info': {'orderId': '977575349021220864', 'clientOrderId': 'CCXT#fadf9ce28a4d4ad3b1833c'}, 'id': '977575349021220864', 'clientOrderId': 'CCXT#fadf9ce28a4d4ad3b1833c', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'symbol': None, 'type': None, 'timeInForce': None, 'postOnly': None, 'side': None, 'price': None, 'stopPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'fees': []}
+********************************************
+Achat 188.5606 TRX at 0.050387 {'info': {'orderId': '977575330402705408', 'clientOrderId': 'CCXT#2410f8c2de89f06289d2a1'}, 'id': '977575330402705408', 'clientOrderId': 'CCXT#2410f8c2de89f06289d2a1', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'symbol': None, 'type': None, 'timeInForce': None, 'postOnly': None, 'side': None, 'price': None, 'stopPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'fees': []}
+Place 188.5606 TRX TP at 0.057945 {'info': {'orderId': '977575349021220864', 'clientOrderId': 'CCXT#fadf9ce28a4d4ad3b1833c'}, 'id': '977575349021220864', 'clientOrderId': 'CCXT#fadf9ce28a4d4ad3b1833c', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'symbol': None, 'type': None, 'timeInForce': None, 'postOnly': None, 'side': None, 'price': None, 'stopPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'fees': []}
+********************************************
+********************************************
+++++++++++++++++++++++++
+FTM
+++++++++++++++++++++++++
+AAVE
+++++++++++++++++++++++++
+SUSHI
+++++++++++++++++++++++++
+FTT
+++++++++++++++++++++++++
+BGB
+++++++++++++++++++++++++
+BCH
+++++++++++++++++++++++++
+ETC
+++++++++++++++++++++++++
+LINK
+++++++++++++++++++++++++
+EOS
+++++++++++++++++++++++++
+UNI
+++++++++++++++++++++++++
+COMP
+++++++++++++++++++++++++
+LUNA
+++++++++++++++++++++++++
+LUNC
+++++++++++++++++++++++++
+1INCH
+++++++++++++++++++++++++
+CAKE
+Solde du compte => 20.018108068 $
+...................................................
+...................................................
+CCXT Version: 2.1.92
+========================
+Binance_Bot v1 - 2022-11-18 20:00:02.957539
+Sections recupérées dans le fichier de configuration: ['BITGET.AUTHENTIFICATION', 'SOLDE', 'PARAMETRES', 'STRATEGIE', 'INDICATORS', 'HYPERPARAMETRES', 'FICHIER.HISTORIQUE']
+Timeframe utilisé :1h chandelier :210 StableCoin:USDT
+Wallet : 0.50005304 USDT
+Cryptos : 19.661411739 USDT de Cryptos
+Total : 20.161464779 USDT
+************* Pair List *************
+['BTC/USDT', 'ETH/USDT', 'BNB/USDT', 'LTC/USDT', 'DOGE/USDT', 'XRP/USDT', 'SOL/USDT', 'AVAX/USDT', 'SHIB/USDT', 'MATIC/USDT', 'CRO/USDT', 'TRX/USDT', 'FTM/USDT', 'AAVE/USDT', 'SUSHI/USDT', 'FTT/USDT', 'BGB/USDT', 'BCH/USDT', 'ETC/USDT', 'LINK/USDT', 'EOS/USDT', 'UNI/USDT', 'COMP/USDT', 'LUNA/USDT', 'LUNC/USDT', '1INCH/USDT', 'CAKE/USDT']
+*************************************
+Symbol: LTC/USDT Side: sell Amount: 0.1619 Price: 62.51 Precision: 0.1619
+Vente 0.1619 LTC {'info': {'orderId': '977590419356819456', 'clientOrderId': 'CCXT#909d5a9cc4235fbc7a1efa'}, 'id': '977590419356819456', 'clientOrderId': 'CCXT#909d5a9cc4235fbc7a1efa', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'symbol': None, 'type': None, 'timeInForce': None, 'postOnly': None, 'side': None, 'price': None, 'stopPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'fees': []}
+********************************************
+********************************************
+Symbol: TRX/USDT Side: sell Amount: 188.5606 Price: 0.050537 Precision: 188.5606
+Vente 188.5606 TRX {'info': {'orderId': '977590433776836608', 'clientOrderId': 'CCXT#224cf022bfe5eec79d71ef'}, 'id': '977590433776836608', 'clientOrderId': 'CCXT#224cf022bfe5eec79d71ef', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'symbol': None, 'type': None, 'timeInForce': None, 'postOnly': None, 'side': None, 'price': None, 'stopPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'fees': []}
+********************************************
+********************************************
+Solde du compte => 20.14895484 $
+...................................................
+...................................................
+CCXT Version: 2.1.92
+========================
+Binance_Bot v1 - 2022-11-18 21:00:02.145493
+Sections recupérées dans le fichier de configuration: ['BITGET.AUTHENTIFICATION', 'SOLDE', 'PARAMETRES', 'STRATEGIE', 'INDICATORS', 'HYPERPARAMETRES', 'FICHIER.HISTORIQUE']
+Timeframe utilisé :1h chandelier :210 StableCoin:USDT
+Wallet : 20.14895484 USDT
+Cryptos : 0.0 USDT de Cryptos
+Total : 20.14895484 USDT
+************* Pair List *************
+['BTC/USDT', 'ETH/USDT', 'BNB/USDT', 'LTC/USDT', 'DOGE/USDT', 'XRP/USDT', 'SOL/USDT', 'AVAX/USDT', 'SHIB/USDT', 'MATIC/USDT', 'CRO/USDT', 'TRX/USDT', 'FTM/USDT', 'AAVE/USDT', 'SUSHI/USDT', 'FTT/USDT', 'BGB/USDT', 'BCH/USDT', 'ETC/USDT', 'LINK/USDT', 'EOS/USDT', 'UNI/USDT', 'COMP/USDT', 'LUNA/USDT', 'LUNC/USDT', '1INCH/USDT', 'CAKE/USDT']
+*************************************
+Solde du compte => 20.14895484 $
+...................................................
+...................................................
+CCXT Version: 2.1.92
+========================
+Binance_Bot v1 - 2022-11-18 22:00:01.979940
+Sections recupérées dans le fichier de configuration: ['BITGET.AUTHENTIFICATION', 'SOLDE', 'MYSQL', 'PARAMETRES', 'STRATEGIE', 'INDICATORS', 'HYPERPARAMETRES', 'FICHIER.HISTORIQUE']
+Timeframe utilisé :1h chandelier :210 StableCoin:USDT
+Wallet : 20.14895484 USDT
+Cryptos : 0.0 USDT de Cryptos
+Total : 20.14895484 USDT
+************* Pair List *************
+['BTC/USDT', 'ETH/USDT', 'BNB/USDT', 'LTC/USDT', 'DOGE/USDT', 'XRP/USDT', 'SOL/USDT', 'AVAX/USDT', 'SHIB/USDT', 'MATIC/USDT', 'CRO/USDT', 'TRX/USDT', 'FTM/USDT', 'AAVE/USDT', 'SUSHI/USDT', 'FTT/USDT', 'BGB/USDT', 'BCH/USDT', 'ETC/USDT', 'LINK/USDT', 'EOS/USDT', 'UNI/USDT', 'COMP/USDT', 'LUNA/USDT', 'LUNC/USDT', '1INCH/USDT', 'CAKE/USDT']
+*************************************
+Solde du compte => 20.14895484 $
+...................................................
+...................................................
+['BTC', 'ETH', 'BNB', 'LTC', 'DOGE', 'XRP', 'SOL', 'AVAX', 'SHIB', 'MATIC', 'CRO', 'TRX', 'FTM', 'AAVE', 'SUSHI', 'FTT', 'BGB', 'BCH', 'ETC', 'LINK', 'EOS', 'UNI', 'COMP', 'LUNA', 'LUNC', '1INCH', 'CAKE']
+CCXT Version: 2.1.92
+========================
+Binance_Bot v1 - 2022-11-18 23:00:02.218314
+Sections recupérées dans le fichier de configuration: ['BITGET.AUTHENTIFICATION', 'SOLDE', 'MYSQL', 'PARAMETRES', 'STRATEGIE', 'INDICATORS', 'HYPERPARAMETRES', 'FICHIER.HISTORIQUE']
+Timeframe utilisé :1h chandelier :210 StableCoin:USDT
+Wallet : 20.14895484 USDT
+Cryptos : 0.0 USDT de Cryptos
+Total : 20.14895484 USDT
+************* Pair List *************
+['BTC/USDT', 'ETH/USDT', 'BNB/USDT', 'LTC/USDT', 'DOGE/USDT', 'XRP/USDT', 'SOL/USDT', 'AVAX/USDT', 'SHIB/USDT', 'MATIC/USDT', 'CRO/USDT', 'TRX/USDT', 'FTM/USDT', 'AAVE/USDT', 'SUSHI/USDT', 'FTT/USDT', 'BGB/USDT', 'BCH/USDT', 'ETC/USDT', 'LINK/USDT', 'EOS/USDT', 'UNI/USDT', 'COMP/USDT', 'LUNA/USDT', 'LUNC/USDT', '1INCH/USDT', 'CAKE/USDT']
+*************************************
+Solde du compte => 20.14895484 $
+...................................................
+...................................................
+['BTC', 'ETH', 'BNB', 'LTC', 'DOGE', 'XRP', 'SOL', 'AVAX', 'SHIB', 'MATIC', 'CRO', 'TRX', 'FTM', 'AAVE', 'SUSHI', 'FTT', 'BGB', 'BCH', 'ETC', 'LINK', 'EOS', 'UNI', 'COMP', 'LUNA', 'LUNC', '1INCH', 'CAKE']
+CCXT Version: 2.1.92
+========================
+Binance_Bot v1 - 2022-11-19 00:00:02.822940
+Sections recupérées dans le fichier de configuration: ['BITGET.AUTHENTIFICATION', 'SOLDE', 'MYSQL', 'PARAMETRES', 'STRATEGIE', 'INDICATORS', 'HYPERPARAMETRES', 'FICHIER.HISTORIQUE']
+Timeframe utilisé :1h chandelier :210 StableCoin:USDT
+Wallet : 20.14895484 USDT
+Cryptos : 0.0 USDT de Cryptos
+Total : 20.14895484 USDT
+************* Pair List *************
+['BTC/USDT', 'ETH/USDT', 'BNB/USDT', 'LTC/USDT', 'DOGE/USDT', 'XRP/USDT', 'SOL/USDT', 'AVAX/USDT', 'SHIB/USDT', 'MATIC/USDT', 'CRO/USDT', 'TRX/USDT', 'FTM/USDT', 'AAVE/USDT', 'SUSHI/USDT', 'FTT/USDT', 'BGB/USDT', 'BCH/USDT', 'ETC/USDT', 'LINK/USDT', 'EOS/USDT', 'UNI/USDT', 'COMP/USDT', 'LUNA/USDT', 'LUNC/USDT', '1INCH/USDT', 'CAKE/USDT']
+*************************************
+Solde du compte => 20.14895484 $
+...................................................
+...................................................
+['BTC', 'ETH', 'BNB', 'LTC', 'DOGE', 'XRP', 'SOL', 'AVAX', 'SHIB', 'MATIC', 'CRO', 'TRX', 'FTM', 'AAVE', 'SUSHI', 'FTT', 'BGB', 'BCH', 'ETC', 'LINK', 'EOS', 'UNI', 'COMP', 'LUNA', 'LUNC', '1INCH', 'CAKE']
+CCXT Version: 2.1.92
+========================
+Binance_Bot v1 - 2022-11-19 01:00:03.220126
+Sections recupérées dans le fichier de configuration: ['BITGET.AUTHENTIFICATION', 'SOLDE', 'MYSQL', 'PARAMETRES', 'STRATEGIE', 'INDICATORS', 'HYPERPARAMETRES', 'FICHIER.HISTORIQUE']
+Timeframe utilisé :1h chandelier :210 StableCoin:USDT
+Wallet : 20.14895484 USDT
+Cryptos : 0.0 USDT de Cryptos
+Total : 20.14895484 USDT
+************* Pair List *************
+['BTC/USDT', 'ETH/USDT', 'BNB/USDT', 'LTC/USDT', 'DOGE/USDT', 'XRP/USDT', 'SOL/USDT', 'AVAX/USDT', 'SHIB/USDT', 'MATIC/USDT', 'CRO/USDT', 'TRX/USDT', 'FTM/USDT', 'AAVE/USDT', 'SUSHI/USDT', 'FTT/USDT', 'BGB/USDT', 'BCH/USDT', 'ETC/USDT', 'LINK/USDT', 'EOS/USDT', 'UNI/USDT', 'COMP/USDT', 'LUNA/USDT', 'LUNC/USDT', '1INCH/USDT', 'CAKE/USDT']
+*************************************
+Solde du compte => 20.14895484 $
+...................................................
+...................................................
+['BTC', 'ETH', 'BNB', 'LTC', 'DOGE', 'XRP', 'SOL', 'AVAX', 'SHIB', 'MATIC', 'CRO', 'TRX', 'FTM', 'AAVE', 'SUSHI', 'FTT', 'BGB', 'BCH', 'ETC', 'LINK', 'EOS', 'UNI', 'COMP', 'LUNA', 'LUNC', '1INCH', 'CAKE']
+CCXT Version: 2.1.92
+========================
+Binance_Bot v1 - 2022-11-19 02:00:02.021262
+Sections recupérées dans le fichier de configuration: ['BITGET.AUTHENTIFICATION', 'SOLDE', 'MYSQL', 'PARAMETRES', 'STRATEGIE', 'INDICATORS', 'HYPERPARAMETRES', 'FICHIER.HISTORIQUE']
+Timeframe utilisé :1h chandelier :210 StableCoin:USDT
+Wallet : 20.14895484 USDT
+Cryptos : 0.0 USDT de Cryptos
+Total : 20.14895484 USDT
+************* Pair List *************
+['BTC/USDT', 'ETH/USDT', 'BNB/USDT', 'LTC/USDT', 'DOGE/USDT', 'XRP/USDT', 'SOL/USDT', 'AVAX/USDT', 'SHIB/USDT', 'MATIC/USDT', 'CRO/USDT', 'TRX/USDT', 'FTM/USDT', 'AAVE/USDT', 'SUSHI/USDT', 'FTT/USDT', 'BGB/USDT', 'BCH/USDT', 'ETC/USDT', 'LINK/USDT', 'EOS/USDT', 'UNI/USDT', 'COMP/USDT', 'LUNA/USDT', 'LUNC/USDT', '1INCH/USDT', 'CAKE/USDT']
+*************************************
+Solde du compte => 20.14895484 $
+...................................................
+...................................................
+['BTC', 'ETH', 'BNB', 'LTC', 'DOGE', 'XRP', 'SOL', 'AVAX', 'SHIB', 'MATIC', 'CRO', 'TRX', 'FTM', 'AAVE', 'SUSHI', 'FTT', 'BGB', 'BCH', 'ETC', 'LINK', 'EOS', 'UNI', 'COMP', 'LUNA', 'LUNC', '1INCH', 'CAKE']
+CCXT Version: 2.1.92
+========================
+Binance_Bot v1 - 2022-11-19 03:00:03.007635
+Sections recupérées dans le fichier de configuration: ['BITGET.AUTHENTIFICATION', 'SOLDE', 'MYSQL', 'PARAMETRES', 'STRATEGIE', 'INDICATORS', 'HYPERPARAMETRES', 'FICHIER.HISTORIQUE']
+Timeframe utilisé :1h chandelier :210 StableCoin:USDT
+Wallet : 20.14895484 USDT
+Cryptos : 0.0 USDT de Cryptos
+Total : 20.14895484 USDT
+************* Pair List *************
+['BTC/USDT', 'ETH/USDT', 'BNB/USDT', 'LTC/USDT', 'DOGE/USDT', 'XRP/USDT', 'SOL/USDT', 'AVAX/USDT', 'SHIB/USDT', 'MATIC/USDT', 'CRO/USDT', 'TRX/USDT', 'FTM/USDT', 'AAVE/USDT', 'SUSHI/USDT', 'FTT/USDT', 'BGB/USDT', 'BCH/USDT', 'ETC/USDT', 'LINK/USDT', 'EOS/USDT', 'UNI/USDT', 'COMP/USDT', 'LUNA/USDT', 'LUNC/USDT', '1INCH/USDT', 'CAKE/USDT']
+*************************************
+Solde du compte => 20.14895484 $
+...................................................
+...................................................
+['BTC', 'ETH', 'BNB', 'LTC', 'DOGE', 'XRP', 'SOL', 'AVAX', 'SHIB', 'MATIC', 'CRO', 'TRX', 'FTM', 'AAVE', 'SUSHI', 'FTT', 'BGB', 'BCH', 'ETC', 'LINK', 'EOS', 'UNI', 'COMP', 'LUNA', 'LUNC', '1INCH', 'CAKE']
+CCXT Version: 2.1.92
+========================
+Binance_Bot v1 - 2022-11-19 04:00:03.054042
+Sections recupérées dans le fichier de configuration: ['BITGET.AUTHENTIFICATION', 'SOLDE', 'MYSQL', 'PARAMETRES', 'STRATEGIE', 'INDICATORS', 'HYPERPARAMETRES', 'FICHIER.HISTORIQUE']
+Timeframe utilisé :1h chandelier :210 StableCoin:USDT
+Wallet : 20.14895484 USDT
+Cryptos : 0.0 USDT de Cryptos
+Total : 20.14895484 USDT
+************* Pair List *************
+['BTC/USDT', 'ETH/USDT', 'BNB/USDT', 'LTC/USDT', 'DOGE/USDT', 'XRP/USDT', 'SOL/USDT', 'AVAX/USDT', 'SHIB/USDT', 'MATIC/USDT', 'CRO/USDT', 'TRX/USDT', 'FTM/USDT', 'AAVE/USDT', 'SUSHI/USDT', 'FTT/USDT', 'BGB/USDT', 'BCH/USDT', 'ETC/USDT', 'LINK/USDT', 'EOS/USDT', 'UNI/USDT', 'COMP/USDT', 'LUNA/USDT', 'LUNC/USDT', '1INCH/USDT', 'CAKE/USDT']
+*************************************
+Solde du compte => 20.14895484 $
+...................................................
+...................................................
+['BTC', 'ETH', 'BNB', 'LTC', 'DOGE', 'XRP', 'SOL', 'AVAX', 'SHIB', 'MATIC', 'CRO', 'TRX', 'FTM', 'AAVE', 'SUSHI', 'FTT', 'BGB', 'BCH', 'ETC', 'LINK', 'EOS', 'UNI', 'COMP', 'LUNA', 'LUNC', '1INCH', 'CAKE']
+CCXT Version: 2.1.92
+========================
+Binance_Bot v1 - 2022-11-19 05:00:02.768886
+Sections recupérées dans le fichier de configuration: ['BITGET.AUTHENTIFICATION', 'SOLDE', 'MYSQL', 'PARAMETRES', 'STRATEGIE', 'INDICATORS', 'HYPERPARAMETRES', 'FICHIER.HISTORIQUE']
+Timeframe utilisé :1h chandelier :210 StableCoin:USDT
+Wallet : 20.14895484 USDT
+Cryptos : 0.0 USDT de Cryptos
+Total : 20.14895484 USDT
+************* Pair List *************
+['BTC/USDT', 'ETH/USDT', 'BNB/USDT', 'LTC/USDT', 'DOGE/USDT', 'XRP/USDT', 'SOL/USDT', 'AVAX/USDT', 'SHIB/USDT', 'MATIC/USDT', 'CRO/USDT', 'TRX/USDT', 'FTM/USDT', 'AAVE/USDT', 'SUSHI/USDT', 'FTT/USDT', 'BGB/USDT', 'BCH/USDT', 'ETC/USDT', 'LINK/USDT', 'EOS/USDT', 'UNI/USDT', 'COMP/USDT', 'LUNA/USDT', 'LUNC/USDT', '1INCH/USDT', 'CAKE/USDT']
+*************************************
+Solde du compte => 20.14895484 $
+...................................................
+...................................................
+['BTC', 'ETH', 'BNB', 'LTC', 'DOGE', 'XRP', 'SOL', 'AVAX', 'SHIB', 'MATIC', 'CRO', 'TRX', 'FTM', 'AAVE', 'SUSHI', 'FTT', 'BGB', 'BCH', 'ETC', 'LINK', 'EOS', 'UNI', 'COMP', 'LUNA', 'LUNC', '1INCH', 'CAKE']
+CCXT Version: 2.1.92
+========================
+Binance_Bot v1 - 2022-11-19 06:00:02.177760
+Sections recupérées dans le fichier de configuration: ['BITGET.AUTHENTIFICATION', 'SOLDE', 'MYSQL', 'PARAMETRES', 'STRATEGIE', 'INDICATORS', 'HYPERPARAMETRES', 'FICHIER.HISTORIQUE']
+Timeframe utilisé :1h chandelier :210 StableCoin:USDT
+Wallet : 20.14895484 USDT
+Cryptos : 0.0 USDT de Cryptos
+Total : 20.14895484 USDT
+************* Pair List *************
+['BTC/USDT', 'ETH/USDT', 'BNB/USDT', 'LTC/USDT', 'DOGE/USDT', 'XRP/USDT', 'SOL/USDT', 'AVAX/USDT', 'SHIB/USDT', 'MATIC/USDT', 'CRO/USDT', 'TRX/USDT', 'FTM/USDT', 'AAVE/USDT', 'SUSHI/USDT', 'FTT/USDT', 'BGB/USDT', 'BCH/USDT', 'ETC/USDT', 'LINK/USDT', 'EOS/USDT', 'UNI/USDT', 'COMP/USDT', 'LUNA/USDT', 'LUNC/USDT', '1INCH/USDT', 'CAKE/USDT']
+*************************************
+Solde du compte => 20.14895484 $
+...................................................
+...................................................
+['BTC', 'ETH', 'BNB', 'LTC', 'DOGE', 'XRP', 'SOL', 'AVAX', 'SHIB', 'MATIC', 'CRO', 'TRX', 'FTM', 'AAVE', 'SUSHI', 'FTT', 'BGB', 'BCH', 'ETC', 'LINK', 'EOS', 'UNI', 'COMP', 'LUNA', 'LUNC', '1INCH', 'CAKE']
+CCXT Version: 2.1.92
+========================
+Binance_Bot v1 - 2022-11-19 07:00:02.767602
+Sections recupérées dans le fichier de configuration: ['BITGET.AUTHENTIFICATION', 'SOLDE', 'MYSQL', 'PARAMETRES', 'STRATEGIE', 'INDICATORS', 'HYPERPARAMETRES', 'FICHIER.HISTORIQUE']
+Timeframe utilisé :1h chandelier :210 StableCoin:USDT
+Wallet : 20.14895484 USDT
+Cryptos : 0.0 USDT de Cryptos
+Total : 20.14895484 USDT
+************* Pair List *************
+['BTC/USDT', 'ETH/USDT', 'BNB/USDT', 'LTC/USDT', 'DOGE/USDT', 'XRP/USDT', 'SOL/USDT', 'AVAX/USDT', 'SHIB/USDT', 'MATIC/USDT', 'CRO/USDT', 'TRX/USDT', 'FTM/USDT', 'AAVE/USDT', 'SUSHI/USDT', 'FTT/USDT', 'BGB/USDT', 'BCH/USDT', 'ETC/USDT', 'LINK/USDT', 'EOS/USDT', 'UNI/USDT', 'COMP/USDT', 'LUNA/USDT', 'LUNC/USDT', '1INCH/USDT', 'CAKE/USDT']
+*************************************
+Solde du compte => 20.14895484 $
+...................................................
+...................................................
+['BTC', 'ETH', 'BNB', 'LTC', 'DOGE', 'XRP', 'SOL', 'AVAX', 'SHIB', 'MATIC', 'CRO', 'TRX', 'FTM', 'AAVE', 'SUSHI', 'FTT', 'BGB', 'BCH', 'ETC', 'LINK', 'EOS', 'UNI', 'COMP', 'LUNA', 'LUNC', '1INCH', 'CAKE']
+CCXT Version: 2.1.92
+========================
+Binance_Bot v1 - 2022-11-19 08:00:02.290524
+Sections recupérées dans le fichier de configuration: ['BITGET.AUTHENTIFICATION', 'SOLDE', 'MYSQL', 'PARAMETRES', 'STRATEGIE', 'INDICATORS', 'HYPERPARAMETRES', 'FICHIER.HISTORIQUE']
+Timeframe utilisé :1h chandelier :210 StableCoin:USDT
+Wallet : 20.14895484 USDT
+Cryptos : 0.0 USDT de Cryptos
+Total : 20.14895484 USDT
+************* Pair List *************
+['BTC/USDT', 'ETH/USDT', 'BNB/USDT', 'LTC/USDT', 'DOGE/USDT', 'XRP/USDT', 'SOL/USDT', 'AVAX/USDT', 'SHIB/USDT', 'MATIC/USDT', 'CRO/USDT', 'TRX/USDT', 'FTM/USDT', 'AAVE/USDT', 'SUSHI/USDT', 'FTT/USDT', 'BGB/USDT', 'BCH/USDT', 'ETC/USDT', 'LINK/USDT', 'EOS/USDT', 'UNI/USDT', 'COMP/USDT', 'LUNA/USDT', 'LUNC/USDT', '1INCH/USDT', 'CAKE/USDT']
+*************************************
+Solde du compte => 20.14895484 $
+...................................................
+...................................................
+['BTC', 'ETH', 'BNB', 'LTC', 'DOGE', 'XRP', 'SOL', 'AVAX', 'SHIB', 'MATIC', 'CRO', 'TRX', 'FTM', 'AAVE', 'SUSHI', 'FTT', 'BGB', 'BCH', 'ETC', 'LINK', 'EOS', 'UNI', 'COMP', 'LUNA', 'LUNC', '1INCH', 'CAKE']
+CCXT Version: 2.1.92
+========================
+Binance_Bot v1 - 2022-11-19 09:00:01.874792
+Sections recupérées dans le fichier de configuration: ['BITGET.AUTHENTIFICATION', 'SOLDE', 'MYSQL', 'PARAMETRES', 'STRATEGIE', 'INDICATORS', 'HYPERPARAMETRES', 'FICHIER.HISTORIQUE']
+Timeframe utilisé :1h chandelier :210 StableCoin:USDT
+Wallet : 20.14895484 USDT
+Cryptos : 0.0 USDT de Cryptos
+Total : 20.14895484 USDT
+************* Pair List *************
+['BTC/USDT', 'ETH/USDT', 'BNB/USDT', 'LTC/USDT', 'DOGE/USDT', 'XRP/USDT', 'SOL/USDT', 'AVAX/USDT', 'SHIB/USDT', 'MATIC/USDT', 'CRO/USDT', 'TRX/USDT', 'FTM/USDT', 'AAVE/USDT', 'SUSHI/USDT', 'FTT/USDT', 'BGB/USDT', 'BCH/USDT', 'ETC/USDT', 'LINK/USDT', 'EOS/USDT', 'UNI/USDT', 'COMP/USDT', 'LUNA/USDT', 'LUNC/USDT', '1INCH/USDT', 'CAKE/USDT']
+*************************************
+Solde du compte => 20.14895484 $
+...................................................
+...................................................
+['BTC', 'ETH', 'BNB', 'LTC', 'DOGE', 'XRP', 'SOL', 'AVAX', 'SHIB', 'MATIC', 'CRO', 'TRX', 'FTM', 'AAVE', 'SUSHI', 'FTT', 'BGB', 'BCH', 'ETC', 'LINK', 'EOS', 'UNI', 'COMP', 'LUNA', 'LUNC', '1INCH', 'CAKE']
+CCXT Version: 2.1.92
+========================
+Binance_Bot v1 - 2022-11-19 10:00:02.799587
+Sections recupérées dans le fichier de configuration: ['BITGET.AUTHENTIFICATION', 'SOLDE', 'MYSQL', 'PARAMETRES', 'STRATEGIE', 'INDICATORS', 'HYPERPARAMETRES', 'FICHIER.HISTORIQUE']
+Timeframe utilisé :1h chandelier :210 StableCoin:USDT
+Wallet : 20.14895484 USDT
+Cryptos : 0.0 USDT de Cryptos
+Total : 20.14895484 USDT
+************* Pair List *************
+['BTC/USDT', 'ETH/USDT', 'BNB/USDT', 'LTC/USDT', 'DOGE/USDT', 'XRP/USDT', 'SOL/USDT', 'AVAX/USDT', 'SHIB/USDT', 'MATIC/USDT', 'CRO/USDT', 'TRX/USDT', 'FTM/USDT', 'AAVE/USDT', 'SUSHI/USDT', 'FTT/USDT', 'BGB/USDT', 'BCH/USDT', 'ETC/USDT', 'LINK/USDT', 'EOS/USDT', 'UNI/USDT', 'COMP/USDT', 'LUNA/USDT', 'LUNC/USDT', '1INCH/USDT', 'CAKE/USDT']
+*************************************
+Solde du compte => 20.14895484 $
+...................................................
+...................................................
+CCXT Version: 2.1.92
+========================
+Binance_Bot v1 - 2022-11-19 11:00:02.712230
+Sections recupérées dans le fichier de configuration: ['BITGET.AUTHENTIFICATION', 'SOLDE', 'MYSQL', 'PARAMETRES', 'STRATEGIE', 'INDICATORS', 'HYPERPARAMETRES', 'FICHIER.HISTORIQUE']
+Timeframe utilisé :1h chandelier :210 StableCoin:USDT
+Wallet : 20.14895484 USDT
+Cryptos : 0.0 USDT de Cryptos
+Total : 20.14895484 USDT
+************* Pair List *************
+['BTC/USDT', 'ETH/USDT', 'BNB/USDT', 'LTC/USDT', 'DOGE/USDT', 'XRP/USDT', 'SOL/USDT', 'AVAX/USDT', 'SHIB/USDT', 'MATIC/USDT', 'CRO/USDT', 'TRX/USDT', 'FTM/USDT', 'AAVE/USDT', 'SUSHI/USDT', 'FTT/USDT', 'BGB/USDT', 'BCH/USDT', 'ETC/USDT', 'LINK/USDT', 'EOS/USDT', 'UNI/USDT', 'COMP/USDT', 'LUNA/USDT', 'LUNC/USDT', '1INCH/USDT', 'CAKE/USDT']
+*************************************
+Solde du compte => 20.14895484 $
+...................................................
+...................................................
+CCXT Version: 2.1.92
+========================
+Binance_Bot v1 - 2022-11-19 12:00:02.234302
+Sections recupérées dans le fichier de configuration: ['BITGET.AUTHENTIFICATION', 'SOLDE', 'MYSQL', 'PARAMETRES', 'STRATEGIE', 'INDICATORS', 'HYPERPARAMETRES', 'FICHIER.HISTORIQUE']
+Timeframe utilisé :1h chandelier :210 StableCoin:USDT
+Wallet : 20.14895484 USDT
+Cryptos : 0.0 USDT de Cryptos
+Total : 20.14895484 USDT
+************* Pair List *************
+['BTC/USDT', 'ETH/USDT', 'BNB/USDT', 'LTC/USDT', 'DOGE/USDT', 'XRP/USDT', 'SOL/USDT', 'AVAX/USDT', 'SHIB/USDT', 'MATIC/USDT', 'CRO/USDT', 'TRX/USDT', 'FTM/USDT', 'AAVE/USDT', 'SUSHI/USDT', 'FTT/USDT', 'BGB/USDT', 'BCH/USDT', 'ETC/USDT', 'LINK/USDT', 'EOS/USDT', 'UNI/USDT', 'COMP/USDT', 'LUNA/USDT', 'LUNC/USDT', '1INCH/USDT', 'CAKE/USDT']
+*************************************
+Solde du compte => 20.14895484 $
+...................................................
+...................................................
+CCXT Version: 2.1.92
+========================
+Binance_Bot v1 - 2022-11-19 13:00:02.029936
+Sections recupérées dans le fichier de configuration: ['BITGET.AUTHENTIFICATION', 'SOLDE', 'MYSQL', 'PARAMETRES', 'STRATEGIE', 'INDICATORS', 'HYPERPARAMETRES', 'FICHIER.HISTORIQUE']
+Timeframe utilisé :1h chandelier :210 StableCoin:USDT
+Wallet : 20.14895484 USDT
+Cryptos : 0.0 USDT de Cryptos
+Total : 20.14895484 USDT
+************* Pair List *************
+['BTC/USDT', 'ETH/USDT', 'BNB/USDT', 'LTC/USDT', 'DOGE/USDT', 'XRP/USDT', 'SOL/USDT', 'AVAX/USDT', 'SHIB/USDT', 'MATIC/USDT', 'CRO/USDT', 'TRX/USDT', 'FTM/USDT', 'AAVE/USDT', 'SUSHI/USDT', 'FTT/USDT', 'BGB/USDT', 'BCH/USDT', 'ETC/USDT', 'LINK/USDT', 'EOS/USDT', 'UNI/USDT', 'COMP/USDT', 'LUNA/USDT', 'LUNC/USDT', '1INCH/USDT', 'CAKE/USDT']
+*************************************
+Solde du compte => 20.14895484 $
+...................................................
+...................................................
+CCXT Version: 2.1.92
+========================
+Binance_Bot v1 - 2022-11-19 14:00:02.954132
+Sections recupérées dans le fichier de configuration: ['BITGET.AUTHENTIFICATION', 'SOLDE', 'MYSQL', 'PARAMETRES', 'STRATEGIE', 'INDICATORS', 'HYPERPARAMETRES', 'FICHIER.HISTORIQUE']
+Timeframe utilisé :1h chandelier :210 StableCoin:USDT
+Wallet : 20.14895484 USDT
+Cryptos : 0.0 USDT de Cryptos
+Total : 20.14895484 USDT
+************* Pair List *************
+['BTC/USDT', 'ETH/USDT', 'BNB/USDT', 'LTC/USDT', 'DOGE/USDT', 'XRP/USDT', 'SOL/USDT', 'AVAX/USDT', 'SHIB/USDT', 'MATIC/USDT', 'CRO/USDT', 'TRX/USDT', 'FTM/USDT', 'AAVE/USDT', 'SUSHI/USDT', 'FTT/USDT', 'BGB/USDT', 'BCH/USDT', 'ETC/USDT', 'LINK/USDT', 'EOS/USDT', 'UNI/USDT', 'COMP/USDT', 'LUNA/USDT', 'LUNC/USDT', '1INCH/USDT', 'CAKE/USDT']
+*************************************
+Solde du compte => 20.14895484 $
+...................................................
+...................................................
+CCXT Version: 2.1.92
+========================
+Bitget_Bot v1 - 2022-11-19 15:00:03.084224
+Sections recupérées dans le fichier de configuration: ['BITGET.AUTHENTIFICATION', 'SOLDE', 'MYSQL', 'PARAMETRES', 'STRATEGIE', 'INDICATORS', 'HYPERPARAMETRES', 'FICHIER.HISTORIQUE']
+Timeframe utilisé :1h chandelier :210 StableCoin:USDT
+Wallet : 20.14895484 USDT
+Cryptos : 0.0 USDT de Cryptos
+Total : 20.14895484 USDT
+************* Pair List *************
+['BTC/USDT', 'ETH/USDT', 'BNB/USDT', 'LTC/USDT', 'DOGE/USDT', 'XRP/USDT', 'SOL/USDT', 'AVAX/USDT', 'SHIB/USDT', 'MATIC/USDT', 'CRO/USDT', 'TRX/USDT', 'FTM/USDT', 'AAVE/USDT', 'SUSHI/USDT', 'FTT/USDT', 'BGB/USDT', 'BCH/USDT', 'ETC/USDT', 'LINK/USDT', 'EOS/USDT', 'UNI/USDT', 'COMP/USDT', 'LUNA/USDT', 'LUNC/USDT', '1INCH/USDT', 'CAKE/USDT']
+*************************************
+Solde du compte => 20.14895484 $
+...................................................
+...................................................
+CCXT Version: 2.1.92
+========================
+Bitget_Bot v1 - 2022-11-19 16:00:02.766258
+Sections recupérées dans le fichier de configuration: ['BITGET.AUTHENTIFICATION', 'SOLDE', 'MYSQL', 'PARAMETRES', 'STRATEGIE', 'INDICATORS', 'HYPERPARAMETRES', 'FICHIER.HISTORIQUE']
+Timeframe utilisé :1h chandelier :210 StableCoin:USDT
+Wallet : 20.14895484 USDT
+Cryptos : 0.0 USDT de Cryptos
+Total : 20.14895484 USDT
+************* Pair List *************
+['BTC/USDT', 'ETH/USDT', 'BNB/USDT', 'LTC/USDT', 'DOGE/USDT', 'XRP/USDT', 'SOL/USDT', 'AVAX/USDT', 'SHIB/USDT', 'MATIC/USDT', 'CRO/USDT', 'TRX/USDT', 'FTM/USDT', 'AAVE/USDT', 'SUSHI/USDT', 'FTT/USDT', 'BGB/USDT', 'BCH/USDT', 'ETC/USDT', 'LINK/USDT', 'EOS/USDT', 'UNI/USDT', 'COMP/USDT', 'LUNA/USDT', 'LUNC/USDT', '1INCH/USDT', 'CAKE/USDT']
+*************************************
+Solde du compte => 20.14895484 $
+...................................................
+...................................................
+CCXT Version: 2.1.92
+========================
+Bitget_Bot v1 - 2022-11-19 17:00:01.968066
+Sections recupérées dans le fichier de configuration: ['BITGET.AUTHENTIFICATION', 'SOLDE', 'MYSQL', 'PARAMETRES', 'STRATEGIE', 'INDICATORS', 'HYPERPARAMETRES', 'FICHIER.HISTORIQUE']
+Timeframe utilisé :1h chandelier :210 StableCoin:USDT
+Wallet : 20.14895484 USDT
+Cryptos : 0.0 USDT de Cryptos
+Total : 20.14895484 USDT
+************* Pair List *************
+['BTC/USDT', 'ETH/USDT', 'BNB/USDT', 'LTC/USDT', 'DOGE/USDT', 'XRP/USDT', 'SOL/USDT', 'AVAX/USDT', 'SHIB/USDT', 'MATIC/USDT', 'CRO/USDT', 'TRX/USDT', 'FTM/USDT', 'AAVE/USDT', 'SUSHI/USDT', 'FTT/USDT', 'BGB/USDT', 'BCH/USDT', 'ETC/USDT', 'LINK/USDT', 'EOS/USDT', 'UNI/USDT', 'COMP/USDT', 'LUNA/USDT', 'LUNC/USDT', '1INCH/USDT', 'CAKE/USDT']
+*************************************
+Solde du compte => 20.14895484 $
+...................................................
+...................................................
+CCXT Version: 2.1.92
+========================
+Bitget_Bot v1 - 2022-11-19 18:00:02.429685
+Sections recupérées dans le fichier de configuration: ['BITGET.AUTHENTIFICATION', 'SOLDE', 'MYSQL', 'PARAMETRES', 'STRATEGIE', 'INDICATORS', 'HYPERPARAMETRES', 'FICHIER.HISTORIQUE']
+Timeframe utilisé :1h chandelier :210 StableCoin:USDT
+Wallet : 20.14895484 USDT
+Cryptos : 0.0 USDT de Cryptos
+Total : 20.14895484 USDT
+************* Pair List *************
+['BTC/USDT', 'ETH/USDT', 'BNB/USDT', 'LTC/USDT', 'DOGE/USDT', 'XRP/USDT', 'SOL/USDT', 'AVAX/USDT', 'SHIB/USDT', 'MATIC/USDT', 'CRO/USDT', 'TRX/USDT', 'FTM/USDT', 'AAVE/USDT', 'SUSHI/USDT', 'FTT/USDT', 'BGB/USDT', 'BCH/USDT', 'ETC/USDT', 'LINK/USDT', 'EOS/USDT', 'UNI/USDT', 'COMP/USDT', 'LUNA/USDT', 'LUNC/USDT', '1INCH/USDT', 'CAKE/USDT']
+*************************************
+Solde du compte => 20.14895484 $
+...................................................
+...................................................
+CCXT Version: 2.1.92
+========================
+Bitget_Bot v1 - 2022-11-19 19:00:02.387800
+Sections recupérées dans le fichier de configuration: ['BITGET.AUTHENTIFICATION', 'SOLDE', 'MYSQL', 'PARAMETRES', 'STRATEGIE', 'INDICATORS', 'HYPERPARAMETRES', 'FICHIER.HISTORIQUE']
+Timeframe utilisé :1h chandelier :210 StableCoin:USDT
+Wallet : 20.14895484 USDT
+Cryptos : 0.0 USDT de Cryptos
+Total : 20.14895484 USDT
+************* Pair List *************
+['BTC/USDT', 'ETH/USDT', 'BNB/USDT', 'LTC/USDT', 'DOGE/USDT', 'XRP/USDT', 'SOL/USDT', 'AVAX/USDT', 'SHIB/USDT', 'MATIC/USDT', 'CRO/USDT', 'TRX/USDT', 'FTM/USDT', 'AAVE/USDT', 'SUSHI/USDT', 'FTT/USDT', 'BGB/USDT', 'BCH/USDT', 'ETC/USDT', 'LINK/USDT', 'EOS/USDT', 'UNI/USDT', 'COMP/USDT', 'LUNA/USDT', 'LUNC/USDT', '1INCH/USDT', 'CAKE/USDT']
+*************************************
+Solde du compte => 20.14895484 $
+...................................................
+...................................................
+CCXT Version: 2.1.92
+========================
+Bitget_Bot v1 - 2022-11-19 20:00:02.860944
+Sections recupérées dans le fichier de configuration: ['BITGET.AUTHENTIFICATION', 'SOLDE', 'MYSQL', 'PARAMETRES', 'STRATEGIE', 'INDICATORS', 'HYPERPARAMETRES', 'FICHIER.HISTORIQUE']
+Timeframe utilisé :1h chandelier :210 StableCoin:USDT
+Wallet : 20.14895484 USDT
+Cryptos : 0.0 USDT de Cryptos
+Total : 20.14895484 USDT
+************* Pair List *************
+['BTC/USDT', 'ETH/USDT', 'BNB/USDT', 'LTC/USDT', 'DOGE/USDT', 'XRP/USDT', 'SOL/USDT', 'AVAX/USDT', 'SHIB/USDT', 'MATIC/USDT', 'CRO/USDT', 'TRX/USDT', 'FTM/USDT', 'AAVE/USDT', 'SUSHI/USDT', 'FTT/USDT', 'BGB/USDT', 'BCH/USDT', 'ETC/USDT', 'LINK/USDT', 'EOS/USDT', 'UNI/USDT', 'COMP/USDT', 'LUNA/USDT', 'LUNC/USDT', '1INCH/USDT', 'CAKE/USDT']
+*************************************
+Solde du compte => 20.14895484 $
+...................................................
+...................................................
+CCXT Version: 2.1.92
+========================
+Bitget_Bot v1 - 2022-11-19 21:00:02.169370
+Sections recupérées dans le fichier de configuration: ['BITGET.AUTHENTIFICATION', 'SOLDE', 'MYSQL', 'PARAMETRES', 'STRATEGIE', 'INDICATORS', 'HYPERPARAMETRES', 'FICHIER.HISTORIQUE']
+Timeframe utilisé :1h chandelier :210 StableCoin:USDT
+Wallet : 20.14895484 USDT
+Cryptos : 0.0 USDT de Cryptos
+Total : 20.14895484 USDT
+************* Pair List *************
+['BTC/USDT', 'ETH/USDT', 'BNB/USDT', 'LTC/USDT', 'DOGE/USDT', 'XRP/USDT', 'SOL/USDT', 'AVAX/USDT', 'SHIB/USDT', 'MATIC/USDT', 'CRO/USDT', 'TRX/USDT', 'FTM/USDT', 'AAVE/USDT', 'SUSHI/USDT', 'FTT/USDT', 'BGB/USDT', 'BCH/USDT', 'ETC/USDT', 'LINK/USDT', 'EOS/USDT', 'UNI/USDT', 'COMP/USDT', 'LUNA/USDT', 'LUNC/USDT', '1INCH/USDT', 'CAKE/USDT']
+*************************************
+Solde du compte => 20.14895484 $
+...................................................
+...................................................
