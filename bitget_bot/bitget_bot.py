@@ -516,24 +516,24 @@ if openPositions < maxOpenPosition:
                     mydb.commit()
                 #Fin de mysql
                 print("********************************************")
-                print("place TP")
+                #print("place TP")
                 buyAmount2 = bitget.get_balance_of_one_coin(coin)
-                time.sleep(2)
-                tp = bitget.place_limit_order(symbol,'sell',str(float(buyAmount)/2),tpPrice)
-                try:
-                    tp["id"]
-                except:
+                #time.sleep(2)
+                #tp = bitget.place_limit_order(symbol,'sell',str(float(buyAmount)/2),tpPrice)
+                #try:
+                #    tp["id"]
+                #except:
                     #time.sleep(2)
                     #buyAmount2 = bitget.get_balance_of_one_coin(coin)
-                    time.sleep(4)
-                    tp = bitget.place_limit_order(symbol,'sell',str(float(buyAmount)/2),tpPrice)
-                    pass
-                print(tp)
-                print("********************************************")
+                #    time.sleep(4)
+                #    tp = bitget.place_limit_order(symbol,'sell',str(float(buyAmount)/2),tpPrice)
+                #    pass
+                #print(tp)
+                #print("********************************************")
                 addMessageComponent(f"Achat :\n • {coin}\n • Prix actuel {buyPrice}\n • Quantité {buyAmount}\n")
-                addMessageComponent(f"Place : {str(float(buyAmount)/2)} {coin} TP à {tpPrice} $\n")
+                #addMessageComponent(f"Place : {str(float(buyAmount)/2)} {coin} TP à {tpPrice} $\n")
                 print("Achat",buyAmount,coin,'at',buyPrice,buy)
-                print("Place",buyAmount,coin,"TP at",tpPrice, tp)
+                #print("Place",buyAmount,coin,"TP at",tpPrice, tp)
 
                 openPositions += 1
                 print("********************************************")
