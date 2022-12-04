@@ -256,7 +256,7 @@ for coin in dfList:
     
     # CCI
     #dfList[coin]['hlc3'] -- dfList[coin]['sma_cci'] -- dfList[coin]['mad'] -- dfList[coin]['cci']
-    dfList[coin]=CustomIndocators.cci(df)
+    #dfList[coin]=CustomIndocators.cci(df)
 
     # PPO
     #df['ppo'] -- df['ppo_signal'] -- df['ppo_histo']

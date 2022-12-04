@@ -220,12 +220,12 @@ class CustomIndocators():
         return df
     
     #CCI
-    def cci(df):
-        df['hlc3'] = (df['high'] + df['low'] + df['close']) / 3 
-        df['sma_cci'] = df['hlc3'].rolling(40).mean()
-        df['mad'] = df['hlc3'].rolling(40).apply(lambda x: pd.Series(x).mad())
-        df['cci'] = (df['hlc3'] - df['sma_cci']) / (0.015 * df['mad']) 
-        return df
+    #def cci(df):
+    #    df['hlc3'] = (df['high'] + df['low'] + df['close']) / 3 
+    #    df['sma_cci'] = df['hlc3'].rolling(40).mean()
+    #    df['mad'] = df['hlc3'].rolling(40).apply(lambda x: pd.Series(x).mad())
+    #    df['cci'] = (df['hlc3'] - df['sma_cci']) / (0.015 * df['mad']) 
+    #    return df
     
     #PPO
     def ppo(df):
