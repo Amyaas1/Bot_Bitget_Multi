@@ -62,7 +62,7 @@ timeframe=str(config['STRATEGIE']['timeframe'])
 nbOfCandles=int(config['STRATEGIE']['nbOfCandles'])
 stableCoin=str(config['PARAMETRES']['stableCoin'])
 production = bool(config['PARAMETRES']['production'])
-leverage = bool(config['STRATEGIE']['leverage'])
+leverage = float(config['STRATEGIE']['leverage'])
 delay_coin= int(config['PARAMETRES']['delay_coin'])
 print("Timeframe utilisé :"+str(timeframe)+" chandelier :"+str(nbOfCandles) + " StableCoin:"+str(stableCoin) + " Leverage:" + str(leverage))
 
