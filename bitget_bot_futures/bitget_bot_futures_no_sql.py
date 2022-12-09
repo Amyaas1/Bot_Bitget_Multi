@@ -77,11 +77,11 @@ print("Timeframe utilisé :"+str(timeframe)+" chandelier :"+str(nbOfCandles) + "
 #=================
 type_config = str(config['HYPERPARAMETRES']['type'])
 type = []
-if type == "both":
+if type_config == "both":
     type = ["long", "short"]
-if type == "long":
+if type_config == "long":
     type = ["long"]
-if type == "short":
+if type_config == "short": 
     type = ["short"]
 
 bol_window = int(config['HYPERPARAMETRES']['bol_window'])
