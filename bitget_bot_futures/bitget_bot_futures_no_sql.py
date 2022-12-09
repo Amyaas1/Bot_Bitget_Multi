@@ -15,6 +15,7 @@ import ccxt
 import datetime
 import configparser
 import json
+
 from time import sleep
 import math
 #from custom_indicators import get_n_columns
@@ -68,21 +69,18 @@ print("Timeframe utilisé :"+str(timeframe)+" chandelier :"+str(nbOfCandles) + "
 
 
 
-#################################################################
-#AJOUTER ET REMPLIR CETTE PARTIE AVANT LES INDICATORS VARIABLE
-#################################################################
-
-#=================
 # HYPERPARAMETRES
 #=================
 type_config = str(config['HYPERPARAMETRES']['type'])
+
 type = []
 if type_config == "both":
     type = ["long", "short"]
 if type_config == "long":
     type = ["long"]
-if type_config == "short": 
+if type_config == "short":
     type = ["short"]
+
 
 bol_window = int(config['HYPERPARAMETRES']['bol_window'])
 bol_std = float(config['HYPERPARAMETRES']['bol_std'])
@@ -98,7 +96,6 @@ notifTelegramOnChangeOnly=str(config['PARAMETRES']['notifTelegramOnChangeOnly'])
 alwaysNotifTelegram = str(config['PARAMETRES']['alwaysNotifTelegram'])
 notifBilanDePerformance=str(config['PARAMETRES']['notifBilanDePerformance'])
 notifBilanEvolutionContinue=str(config['PARAMETRES']['notifBilanEvolutionContinue'])
-
 
 #====================
 # List Token
@@ -151,15 +148,14 @@ for pair in pairList:
 					print(f"Impossible de récupérer les 210 dernières bougies de {pair_message} à 2 reprises, on n'utilisera pas cette paire durant cette execution")
 					pass
         
-#print(dfList)
+
 #===========================
 # COLLECTE DES INDICATEURS
 #===========================
 print("COLLECTE DES INDICATEURS")
 for coin in dfList:
-    #print("test")
+    
     # -- Drop all columns we do not need --
-    #print(coin)
     dfList[coin].drop(columns=dfList[coin].columns.difference(['open','high','low','close','volume']), inplace=True)
 
     dfList[coin].drop(columns=dfList[coin].columns.difference(['open','high','low','close','volume']), inplace=True)
@@ -172,10 +168,6 @@ for coin in dfList:
 
     dfList[coin] = CustomIndocators.get_n_columns(dfList[coin], ["ma_band", "lower_band", "higher_band", "close"], 1)
 
-    #print(dfList)
-
-
-#print(dfList)
 
 #====================
 # CONDITION LONG - SHORT
@@ -255,7 +247,7 @@ usd_balance = float(bitget.get_usdt_equity())
 print("USD balance :", round(usd_balance, 2), stableCoin)
 
 
-#print(openPositions)
+
 #cette variable nous servira à la fin pour déterminer si on a fait des actions ou pas
 #si la variable est toujours à 0 c'est qu'il n'y a eu aucun changement et qu'on ne prévient pas le bot telegram de nous notifier
 changement=0
@@ -273,40 +265,38 @@ addMessageComponent("Actions prises par le bot :\n")
 #===================================
 #  On execute la strat sur les différentes cryptos
 #===================================
-coinPositionList = []
+def get_open_position():
+    coinPositionList = []
 
-try :
-    coinPositionList = bitget.get_open_position()
-    time.sleep(delay_coin)
-    for t in coinPositionList:
-        print(t)
-except Exception as e:
-    print("ERROR : "+str(e))
-     
-  
-openPositions = len(coinPositionList)
-#print("---------------")
-#print(openPositions)
-#print("---------------")
-positions_data = bitget.get_open_position()    
-for coin in dfList:
-    #print("---------------")
-    #print(coin)
     try :
-        
-       
-        
+        coinPositionList = bitget.get_open_position()
+        time.sleep(delay_coin)
+        #for t in coinPositionList:
+        #    print(t)
+    except Exception as e:
+        print("ERROR : "+str(e))
+    
+    openPositions = len(coinPositionList)
+    return openPositions
+
+ 
+for coin in dfList:
+    positions_data = bitget.get_open_position() 
+
+    try :
+        openPositions = get_open_position() 
         
         pair=coin+"/"+stableCoin+":"+stableCoin
         position = [
                     {"side": d["side"], "size": d["contractSize"], "market_price":d["info"]["marketPrice"], "usd_size": float(d["contractSize"]) * float(d["info"]["marketPrice"]), "open_price": d["entryPrice"]}
                     for d in positions_data if d["symbol"] == pair
                     ]
-        #print(position)
+        
         row = dfList[coin].iloc[-2]
         
         if len(position) > 0:
             position = position[0]
+            
             print(f"Current position : {position}")
             if position["side"] == "long" and close_long(row):
                 close_long_market_price = float(dfList[coin].iloc[-1]["close"])
@@ -321,7 +311,7 @@ for coin in dfList:
                     bitget.place_market_order(pair, "sell", close_long_quantity, reduce=True)
                     addMessageComponent(f"Place Close Long Market Order: {close_long_quantity} {pair[:-5]} at the price of {close_long_market_price}$ ~{round(exchange_close_long_quantity, 2)}$\n")
                     openPositions -= 1
-                   
+                    
                     changement=changement+1
 
             elif position["side"] == "short" and close_short(row):
@@ -342,9 +332,7 @@ for coin in dfList:
         
         else:
             print("No active position for : " + coin)
-            
-            #print("openPositions=" + str(openPositions) + " maxOpenPosition=" + str(maxOpenPosition)) 
-            if openPositions < maxOpenPosition:   
+            if openPositions < maxOpenPosition:
                 if open_long(row) and "long" in type:
                     
                     long_market_price = float(dfList[coin].iloc[-1]["close"])
@@ -391,7 +379,7 @@ for coin in dfList:
                         bitget.place_market_order(pair, "sell", short_quantity, reduce=False)
                         addMessageComponent(f"Place Open Short Market Order: {short_quantity} {pair[:-5]} at the price of {short_market_price}$ ~{round(exchange_short_quantity, 2)}$\n")
                     
-                       
+                        
                         changement=changement+1
 
             else:
@@ -404,18 +392,16 @@ for coin in dfList:
 
 usd_balance = float(bitget.get_usdt_equity())
 print("USD balance :", round(usd_balance, 2), stableCoin)
-#print(totalBalanceInUsd)
+
 
 usdAmount = round(usd_balance, 2)
-#print(usdAmount)
 
 
 
 #============================================
 #   CODES NECESSAIRES POUR FAIRE DES BILANS
 #    DE PERFORMANCES AU FIL DU TEMPS DANS
-#       LA NOTIFICATION TELEGRAM FINALE
-#        Codé par Mouton - 05/04/2022
+#   
 #============================================
 
 #usdAmount = bitget.get_balance_of_one_coin_usd('USDT')
