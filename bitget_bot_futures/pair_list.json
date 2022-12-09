@@ -1,5 +1,5 @@
 {
-    "bigwill": [
+    "list_coins": [
         "BTC",
         "ETH",
         "BNB",
@@ -8,7 +8,6 @@
         "XRP",
         "SOL",
         "AVAX",
-        "SHIB",
         "MATIC",
         "TRX",
         "FTM",

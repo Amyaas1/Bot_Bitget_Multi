@@ -23,7 +23,7 @@ from custom_indicators import CustomIndocators
 f = open(sys.path[0]+'/pair_list.json',)
 pairJson = json.load(f)
 f.close()
-pairList_coin = pairJson['bigwill']
+pairList_coin = pairJson['list_coins']
 #print(pairList_coin)
 
 path=path_bot
