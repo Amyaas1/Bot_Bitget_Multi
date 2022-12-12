@@ -329,7 +329,13 @@ for coin in dfList:
                     openPositions -= 1
                     
                     changement=changement+1
-        
+            else:
+                #print("*********************")
+                #print(position)
+                #print("*********************")
+                addMessageComponent("On garde :\n")
+                addMessageComponent("Position: " + str(coin) + " " +str(position["side"]) + " Qte: " + str(position["size"]) + " QteUsd: " + str(position["usd_size"]) + "$ Prix Achat: "+ str(position["open_price"]) + "$ Prix Actuel:"+ str(position["market_price"]) +  "$\n")
+                 
         else:
             print("No active position for : " + coin)
             if openPositions < maxOpenPosition:
