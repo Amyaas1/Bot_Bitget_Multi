@@ -429,7 +429,7 @@ for coin in dfList:
                         #Ajout du log BUY dans la db
                         if bool(mysql_active) == True:
                             sql = "INSERT INTO boll_strat_orderBook (type, amount, symbol, price) VALUES (%s, %s, %s, %s)"
-                            val = ("2", short_quantity_in_usd, coin, short_market_price)
+                            val = ("1", short_quantity_in_usd, coin, short_market_price)
                             mycursor.execute(sql, val)
                             mydb.commit()
                         #Fin de mysql
