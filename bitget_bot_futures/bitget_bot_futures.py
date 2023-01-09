@@ -286,9 +286,3 @@ if configuration['mysql_active'] == "True":
 #============================================
 if configuration['telegram_on'] == "True":
     BilanSolde.get_bilan(configuration, MessageTelegram, telegram_send, message, path+configuration['soldeFile'], usdAmount, configuration['todayJour'], configuration['todayMois'], configuration['todayAnnee'], configuration['todayHeure'], configuration['todayMinutes'], configuration['notifBilanDePerformance'], configuration['notifBilanEvolutionContinue'], float(configuration['totalInvestment']), configuration['alwaysNotifTelegram'], configuration['notifTelegramOnChangeOnly'], changement)
-   
-'''
-{'marginCoin': 'USDT', 'locked': '0', 'available': '47.5552434', 'crossMaxAvailable': '47.5552434', 'fixedMaxAvailable': '47.5552434', 'maxTransferOut': '47.5552434', 'equity': '47.5552434', 'usdtEquity': '47.555243405678', 'btcEquity': '0.002852762229', 'unrealizedPL': None, 'bonus': None}
-{'marginCoin': 'USDT', 'locked': '0', 'available': '47.50759245', 'crossMaxAvailable': '42.88747415', 'fixedMaxAvailable': '42.88747415', 'maxTransferOut': '42.83593015', 'equity': '47.55913645', 'usdtEquity': '47.559136450218', 'btcEquity': '0.002853064912', 'unrealizedPL': None, 'bonus': None}
-
-'''
