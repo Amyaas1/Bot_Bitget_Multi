@@ -9,9 +9,6 @@ class ConditionTrade():
                 print(" row['close']:"+str(row['close'] )+ " row['higher_band']:" + str(row['higher_band']))
                 print("row['n1_higher_band']:" + str(row['n1_higher_band']) + " row['n1_lower_band']:" + str(row['n1_lower_band']) + " configuration['min_bol_spread']:" + str(configuration['min_bol_spread']))
                 print("row['long_ma']:"+str(row['long_ma']))
-                
-        print(configuration['min_bol_spread'])
-        print(int(configuration['min_bol_spread']))     
            
         if (row['n1_close'] < row['n1_higher_band']):
             if ((row['close'] > row['higher_band'])):

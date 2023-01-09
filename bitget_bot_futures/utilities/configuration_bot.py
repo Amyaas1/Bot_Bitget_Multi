@@ -55,8 +55,8 @@ class ConfigBot():
         tp_2 = str(config['STRATEGIE']['tp_2'])
         maxOpenPosition = str(config['STRATEGIE']['maxOpenPosition'])
         type_config = config['STRATEGIE']['type']
-        is_sl = str(config['STRATEGIE']['is_tp'])
-        sl = str(config['STRATEGIE']['is_tp'])
+        is_sl = str(config['STRATEGIE']['is_sl'])
+        sl = str(config['STRATEGIE']['sl'])
 
         if type_config == "both":
             type = ["long", "short"]
@@ -74,8 +74,8 @@ class ConfigBot():
             'tp_1': tp_1,
             'tp_2': tp_2,
             'type': type,
-            'is_sl': is_tp,
-            'sl': is_tp,
+            'is_sl': is_sl,
+            'sl': sl,
             'maxOpenPosition': maxOpenPosition
         })
         

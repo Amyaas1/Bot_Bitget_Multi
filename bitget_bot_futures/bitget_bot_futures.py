@@ -209,11 +209,11 @@ for coin in dfList:
                             mysql_dashboard.log_open_long(long_quantity_in_usd, coin, long_market_price)
                         #Fin de mysql
 
-                        if configuration['is_tp'] == 'True':
-                            TakeProfit.put_take_profit(bitget, configuration, message, "long", float(long_quantity), dfList, coin, pair)
+                        if configuration['is_tp'] == "True":
+                            message = TakeProfit.put_take_profit(bitget, configuration, message, "long", float(long_quantity), dfList, coin, pair)
                             
-                        if configuration['is_sl'] == 'True':
-                            StopLost.put_stop_lost(bitget, configuration, message, "long", float(long_quantity), long_market_price, dfList, coin, pair)
+                        if configuration['is_sl'] == "True":
+                            message = StopLost.put_stop_lost(bitget, configuration, message, "long", float(long_quantity), long_market_price, dfList, coin, pair)
                             
                         changement=changement+1
                 else:
@@ -248,11 +248,11 @@ for coin in dfList:
                         #Fin de mysql
                 
                     
-                        if configuration['is_tp'] == 'True':
-                            TakeProfit.put_take_profit(bitget, configuration, message, "short", float(short_quantity), dfList, coin, pair)
+                        if configuration['is_tp'] == "True":
+                            message = TakeProfit.put_take_profit(bitget, configuration, message, "short", float(short_quantity), dfList, coin, pair)
                             
-                        if configuration['is_sl'] == 'True':
-                            StopLost.put_stop_lost(bitget, configuration, message, "short", float(short_quantity), short_market_price, dfList, coin, pair)
+                        if configuration['is_sl'] == "True":
+                            message = StopLost.put_stop_lost(bitget, configuration, message, "short", float(short_quantity), short_market_price, dfList, coin, pair)
                             
                         changement=changement+1
                 
