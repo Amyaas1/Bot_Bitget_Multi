@@ -175,6 +175,7 @@ class PerpBitget():
     @authentication_required
     def get_usdt_equity(self):
         try:
+            #print(self._session.fetchBalance()["info"][0])
             usdt_equity = self._session.fetchBalance()["info"][0]["usdtEquity"]
         except BaseException as err:
             raise Exception("An error occured", err)
