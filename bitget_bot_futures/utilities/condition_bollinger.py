@@ -15,16 +15,25 @@ class ConditionTrade():
                 band = (row['n1_higher_band'] - row['n1_lower_band']) / row['n1_lower_band']
                 if (float(band) > float(configuration['min_bol_spread'])):
                     if(row['close'] > row['long_ma']):
-                        if configuration['debug_detail'] == "True":
+                        if (configuration['debug_detail'] == "True"):
                             print("True")
                             print("------------------------------------------- ")
-                            
                         return True
+                        
+                    else:
+                        if configuration['debug_detail'] == "True":
+                            print("False")
+                            print("------------------------------------------- ")
+                        return False
+            else:
+                if configuration['debug_detail'] == "True":
+                    print("False")
+                    print("------------------------------------------- ")
+                return False
         else:
             if configuration['debug_detail'] == "True":
                 print("False")
                 print("------------------------------------------- ")
-                
             return False
 
     def close_long(row, configuration):
@@ -60,6 +69,22 @@ class ConditionTrade():
                             print("True")
                             print("------------------------------------------- ")
                         return True
+                    else:
+                        if configuration['debug_detail'] == "True":
+                            print("False")
+                            print("------------------------------------------- ")
+                        return False
+                else:
+                    if configuration['debug_detail'] == "True":
+                        print("False")
+                        print("------------------------------------------- ")
+                    return False
+            else:
+                if configuration['debug_detail'] == "True":
+                    print("False")
+                    print("------------------------------------------- ")
+                return False
+                    
         else:
             if configuration['debug_detail'] == "True":
                 print("False")
