@@ -1,6 +1,12 @@
 # Bot_Bitget_Multi
 Bot multi crypto - multi stratégies sur les futures de bitget
 
+Vous pouvez trouver le Dashboard associé a cette adresse : 
+
+```
+https://github.com/telecom4all/Dashboard-Crypto-PNL
+```
+
 # Installation
 ```
 git clone https://github.com/telecom4all/Bot_Bitget_Multi.git
