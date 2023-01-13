@@ -10,41 +10,26 @@ https://github.com/telecom4all/Dashboard-Crypto-PNL
 # Installation
 ```
 git clone https://github.com/telecom4all/Bot_Bitget_Multi.git
-cd bitget_bot_futures
+cd Bot_Bitget_Multi/bitget_bot_futures/
+
+sudo apt-get update
+sudo apt install python3-pip
+sudo apt install python3.10-venv
+
+
 ```
 
 # Utilisation d'un environnement virtuel
 ```
-python3 -m venv .venv
-source .venv/bin/activate
-deactivate
+python3 -m venv .venv               --> pour créer l'environement virtuel a ne faire qu'une fois
+source .venv/bin/activate           --> pour rentrer dans l'environement virtuel
+deactivate                          --> pour sortir de l'environement
 ```
 
 # Installation des dépendances
 ```
-pip install -r requirements.txt
-```
-
-# Exécution du bot
-```
-python bitget_bot_futures.py
-```
-
-# Exécution du bot toutes les heures
-## Avec un environnement virtuel
-Modifier ces 2 lignes dans le fichier start_bot.py avec votre path
-```
-source /path/.venv/bin/activate
-python3 /path/bitget_bot_futures.py
-```
-Rajouter dans le crontab cette ligne
-```
-0 * * * * bash /path/start_bot.sh >> /path/bitget_bot_futures.log
-```
-## Sans environnement virtuel
-Rajouter dans le crontab cette ligne
-```
-0 * * * * bash /path/bitget_bot_futures.py >> /path/bitget_bot_futures.log
+pip3 install -r requirements.txt
+pip3 install --force-reinstall -v "python-telegram-bot==13.5" 
 ```
 
 # Configuration du bot
@@ -159,6 +144,29 @@ name_strat=AUTRESTRAT
 val1=100
 val2=2.25
 ```
+
+# Exécution du bot
+```
+python bitget_bot_futures.py
+```
+
+# Exécution du bot toutes les heures
+## Avec un environnement virtuel
+Modifier ces 2 lignes dans le fichier start_bot.py avec votre path
+```
+source /path/.venv/bin/activate
+python3 /path/bitget_bot_futures.py
+```
+Rajouter dans le crontab cette ligne
+```
+0 * * * * bash /path/start_bot.sh >> /path/bitget_bot_futures.log
+```
+## Sans environnement virtuel
+Rajouter dans le crontab cette ligne
+```
+0 * * * * bash /path/bitget_bot_futures.py >> /path/bitget_bot_futures.log
+```
+
 
 # Soutien
 Ce code est disponible pour tous si vous voulez me "soutenir :-)" voici un lien d'affiliation Bitget : https://partner.bitget.com/bg/85MZE2
