@@ -3,7 +3,7 @@ import pandas as pd
 import time
 from multiprocessing.pool import ThreadPool as Pool
 import numpy as np
-
+ 
 class PerpBitget():
     def __init__(self, apiKey=None, secret=None, password=None):
         bitget_auth_object = {
@@ -14,6 +14,7 @@ class PerpBitget():
             'defaultType': 'swap',
         }
         }
+        
         if bitget_auth_object['secret'] == None:
             self._auth = False
             self._session = ccxt.bitget()
@@ -99,23 +100,44 @@ class PerpBitget():
             raise Exception(err)
 
     @authentication_required
-    def place_limit_stop_loss(self, symbol, side, amount, trigger_price, price, reduce=False):
-        
+    def place_limit_stop_loss(self, symbol, side, amount, trigger_price, limit_price, reduce=False):
+        print('test')
+        print("symbol:" + symbol + " side:" + side + " amount:" + self.convert_amount_to_precision(symbol, amount) + " LimitPrice:" + self.convert_price_to_precision(symbol, limit_price), " Triger_Price:" + self.convert_price_to_precision(symbol, trigger_price))
+        #createOrder ('BTC/USDT', 'limit', 'buy', 0.01, 20000, { stopLossPrice: 22000 })
+        try:
+            return self._session.createOrder(
+                symbol,
+                'limit',
+                side,
+                self.convert_amount_to_precision(symbol, amount), 
+                self.convert_price_to_precision(symbol, limit_price),
+                {'stopLossPrice': self.convert_price_to_precision(symbol, trigger_price) }
+            )
+        except BaseException as err:
+            print(err)
+            raise Exception(err)
+
+   
+      
+    @authentication_required
+    def place_market_stop_loss(self, symbol, side, amount, trigger_price, reduce=False):
         try:
             return self._session.createOrder(
                 symbol, 
-                'limit', 
+                'market', 
                 side, 
                 self.convert_amount_to_precision(symbol, amount), 
-                self.convert_price_to_precision(symbol, price),
+                self.convert_price_to_precision(symbol, trigger_price),
                 params = {
-                    'stopPrice': self.convert_price_to_precision(symbol, trigger_price),  # your stop price
+                    'stopLossPrice': self.convert_price_to_precision(symbol, trigger_price),  # your stop price
                     "triggerType": "market_price",
                     "reduceOnly": reduce
                 }
             )
         except BaseException as err:
             raise Exception(err)
+
+ 
 
     @authentication_required
     def place_market_order(self, symbol, side, amount, reduce=False):
@@ -131,25 +153,9 @@ class PerpBitget():
         except BaseException as err:
             raise Exception(err)
 
-    @authentication_required
-    def place_market_stop_loss(self, symbol, side, amount, trigger_price, reduce=False):
-        
-        try:
-            return self._session.createOrder(
-                symbol, 
-                'market', 
-                side, 
-                self.convert_amount_to_precision(symbol, amount), 
-                self.convert_price_to_precision(symbol, trigger_price),
-                params = {
-                    'stopPrice': self.convert_price_to_precision(symbol, trigger_price),  # your stop price
-                    "triggerType": "market_price",
-                    "reduceOnly": reduce
-                }
-            )
-        except BaseException as err:
-            raise Exception(err)
+   
 
+    
     @authentication_required
     def get_balance_of_one_coin(self, coin):
         try:
