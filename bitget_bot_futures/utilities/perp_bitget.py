@@ -101,9 +101,6 @@ class PerpBitget():
 
     @authentication_required
     def place_limit_stop_loss(self, symbol, side, amount, trigger_price, limit_price, reduce=False):
-        print('test')
-        print("symbol:" + symbol + " side:" + side + " amount:" + self.convert_amount_to_precision(symbol, amount) + " LimitPrice:" + self.convert_price_to_precision(symbol, limit_price), " Triger_Price:" + self.convert_price_to_precision(symbol, trigger_price))
-        #createOrder ('BTC/USDT', 'limit', 'buy', 0.01, 20000, { stopLossPrice: 22000 })
         try:
             return self._session.createOrder(
                 symbol,
@@ -136,6 +133,7 @@ class PerpBitget():
             )
         except BaseException as err:
             raise Exception(err)
+
 
  
 

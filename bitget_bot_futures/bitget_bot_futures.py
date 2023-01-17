@@ -17,7 +17,7 @@ from utilities.bilan import BilanSolde
 from utilities.configuration_bot import ConfigBot
 from utilities.get_infos_tokens import InfosTokens
 from utilities.populate_data_exchange import DataExchange
-from utilities.populate_indicators import DataIndicators
+from utilities.strats.populate_indicators import DataIndicators
 from utilities.utilities_bot import UtilitiesBot
 from utilities.take_profit import TakeProfit
 from utilities.stop_lost import StopLost              
@@ -42,7 +42,7 @@ if configuration['debug'] == "True":
 
 #choix de la class a importer suivant la strat choisi
 if configuration['strat_active'] == "BOLLINGER":
-    from utilities.condition_bollinger import ConditionTrade
+    from utilities.strats.condition_bollinger import ConditionTrade
     
 if configuration['telegram_on'] == "True":
     #Début du message Télégram

@@ -16,7 +16,7 @@ class StopLost():
                         f"Place Stop Lost Long Limit Order: {quantity} {pair[:-5]} at the price of {price}$ ~{round(quantity, 2)}$"
                     )
             
-            bitget.place_limit_order(pair, "buy", quantity, trigger_price, reduce=False)
+            bitget.place_market_stop_loss(pair, "buy", quantity, trigger_price,  reduce=False)
             message = MessageTelegram.addMessageComponent(message, f"Place SL for the Long Limit Order: {quantity} {pair[:-5]} at the price of {trigger_price}$ ~{round(quantity, 2)}$\n")
                     
                                     
@@ -33,7 +33,7 @@ class StopLost():
                         f"Place Stop Lost Short Limit Order: {quantity} {pair[:-5]} at the price of {price}$ ~{round(quantity, 2)}$"
                     )
            
-            bitget.place_limit_order(pair, "sell", quantity, trigger_price, reduce=False)
+            bitget.place_market_stop_loss(pair, "sell", quantity, trigger_price, reduce=False)
             
             message = MessageTelegram.addMessageComponent(message, f"Place SL for the Short Limit Order: {quantity} {pair[:-5]} at the price of {trigger_price}$ ~{round(quantity, 2)}$\n")
              
